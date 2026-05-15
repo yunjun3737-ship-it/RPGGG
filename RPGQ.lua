@@ -1,1 +1,2265 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local U={"\112\055\118\111\077\104\076\066\109\055\080\111\110\066\068\072","\085\098\080\113\073\088\119\075";"\051\088\065\081\079\104\067\070\109\089\116\073\120\048\110\047\080\076\061\061";"\077\066\102\070\077\066\068\099","\051\074\084\061";"\056\100\102\118\051\104\080\067\120\049\061\061";"\051\088\068\099\073\049\061\061";"\112\104\116\086\051\098\081\061","\105\078\108\067\112\057\047\118\105\108\061\061";"\051\117\102\082\112\083\110\099\085\104\067\070\112\121\061\061","\079\117\068\078\051\117\048\061";"\077\088\116\088\051\048\082\084\085\084\119\065\043\066\116\053","\115\103\076\121\080\088\112\071\120\088\118\081\048\089\102\055\073\108\061\061";"\105\084\100\073\120\108\061\061","\051\104\055\112\077\089\112\081";"\079\088\119\121\077\088\110\071","\109\083\080\099\085\084\079\067\079\049\061\061";"\051\074\081\061";"\080\066\110\110\085\083\052\088\120\104\081\103\073\066\089\113","\085\104\055\065\051\098\112\067";"\079\117\102\070\079\088\100\078\112\056\081\061","\085\067\112\107\077\066\112\111\120\115\067\078\110\108\061\061";"\079\117\102\103\079\083\052\118\051\104\085\061";"";"\085\104\052\070\051\074\068\088\112\084\065\088\085\098\082\113\088\076\061\061","\112\098\110\100\077\108\061\061","\102\111\118\066","\079\089\116\056\080\067\079\115\051\104\100\116\110\098\047\121";"\085\117\110\082\051\117\121\061","\055\117\068\065\085\117\055\113\081\084\080\067\079\117\055\090\079\117\055\089\081\076\061\061";"\052\054\076\120\069\089\078\107\116\099\115\086\121\055\067\048\121\057\048\051\089\043\078\051\111\043\082\080\102\076\089\105\103\119\051\090\075\080\085\071\075\065\082\082\067\108\061\061";"\085\115\067\117\073\075\108\116\105\117\100\110\077\066\110\073\115\067\089\061";"\056\100\102\069\112\088\072\061","\057\086\097\052\109\081\065\069\109\048\069\105";"\051\117\055\070";"\085\104\068\070\112\117\102\065","\109\121\061\061","\112\066\100\082\079\117\110\047";"\085\066\055\099\051\088\055\099\077\056\080\082\077\104\116\067";"\055\117\047\119\076\115\082\107\080\117\080\083\073\056\050\121\105\048\072\061";"\089\100\104\055\103\068\053\067\075\081\068\068\078\043\108\074\087\072\057\089\087\082\090\112\102\116\110\098\110\119\089\061";"\056\100\102\075\077\121\061\061","\056\100\102\065\112\056\080\082\079\117\068\078\051\117\048\061","\077\066\082\082\085\108\061\061","\105\084\085\066\088\104\069\100\109\074\110\043\115\074\055\068";"\077\075\067\099\112\076\061\061","\112\066\068\065\112\076\061\061";"\066\049\061\061","\112\056\052\113\051\098\081\061","\112\099\076\098","\073\048\097\103\055\048\102\110\043\048\102\047\079\090\068\077\085\049\061\061";"\105\108\061\061"}local function T(T)return U[T+(182249+-140582)]end for T,d in ipairs({{719377+-719376;-948262-(-948314)},{680976-680975;729432-729390},{131249+-131206,642762+-642710}})do while d[-325630+325631]<d[601707+-601705]do U[d[669895+-669894]],U[d[991874+-991872]],d[-515430+515431],d[-781418-(-781420)]=U[d[-699062+699064]],U[d[789757-789756]],d[-926120+926121]+(854349-854348),d[-574945-(-574947)]-(-846828+846829)end end do local T=type local d=string.len local H=table.insert local J=U local F={w=306896+-306839;["\053"]=693788-693778;Y=-683928-(-683964),J=480489-480486;["\056"]=45775+-45752;z=-338857-(-338919);x=1032829+-1032799;["\054"]=362820+-362762,["\052"]=426734+-426725,F=1020102-1020056;d=-881880-(-881933),u=-911525+911531;j=342786-342771,S=725911-725904;E=-566839+566883,["\057"]=466602-466600;g=748559-748508,C=-349317+349354,O=247982+-247953;V=-19133-(-19180);["\048"]=634613+-634593,m=-658954-(-658972);["\047"]=93090-93050;P=-908889-(-908906),T=890251+-890247;c=409833+-409781,B=-492605+492659;["\055"]=179786-179765,R=-569788+569821,U=428705+-428677,v=-899779-(-899820),A=-421785+421830,k=234953+-234911;K=492756-492717;l=-456267-(-456299);h=596231+-596193,s=100359+-100340,D=-168730+168735;Q=-442309+442317;L=-899125+899141;["\051"]=-220786-(-220813);p=-661022+661047;["\049"]=-900047-(-900047);G=-347370-(-347413);Z=-493636-(-493671),o=-87194+87205;y=-677302-(-677350);a=817812-817752;W=392064-392001,["\050"]=-86955+86956,i=697585-697571;["\043"]=223744-223732,N=-369871+369905;t=299211-299162,e=-36943-(-37002),f=-939672+939733;M=-116617-(-116641),r=-286979-(-287010),b=-853754+853809;n=191223-191210;H=-764576-(-764632),X=653687-653665;I=198242-198216;q=-691560-(-691610)}local m=string.sub local w=string.char local O=math.floor local C=table.concat for U=633261+-633260,#J,-396759-(-396760)do local Y=J[U]if T(Y)=="\115\116\114\105\110\103"then local T=d(Y)local K={}local D=277393-277392 local c=456085+-456085 local q=350180+-350180 while D<=T do local U=m(Y,D,D)local d=F[U]if d then c=c+d*(-625529+625593)^((161572-161569)-q)q=q+(-257413-(-257414))if q==-309926+309930 then q=794599-794599 local U=O(c/(904725+-839189))local T=O((c%(-612285-(-677821)))/(48833+-48577))local d=c%(-782540+782796)H(K,w(U,T,d))c=12554+-12554 end elseif U=="\061"then H(K,w(O(c/(-442319-(-507855)))))if D>=T or m(Y,D+(909876+-909875),D+(-906015+906016))~="\061"then H(K,w(O((c%(63281+2255))/(-992421-(-992677)))))end break end D=D+(-601180+601181)end J[U]=C(K)end end end return(function(U,H,J,F,m,w,O,l,f,s,D,c,q,C,x,Y,K,g,d,k)q,Y,x,D,s,l,f,g,d,K,C,c,k=function(U)local T,d=-193167+193168,U[-1042311-(-1042312)]while d do Y[d],T=Y[d]-(217953+-217952),T+(-368480+368481)if-939090-(-939090)==Y[d]then Y[d],C[d]=nil,nil end d=U[T]end end,{},function(U,T)local H=c(T)local J=function()return d(U,{},T,H)end return J end,-41403-(-41403),function(U,T)local H=c(T)local J=function(J,F,m,w)return d(U,{J;F,m,w},T,H)end return J end,function(U,T)local H=c(T)local J=function(J,F)return d(U,{J;F},T,H)end return J end,function(U,T)local H=c(T)local J=function(...)return d(U,{...},T,H)end return J end,function(U,T)local H=c(T)local J=function(J)return d(U,{J},T,H)end return J end,function(d,J,F,m)local M,D,q,i,X,R,L,Y,y,N,c,n,P,o,S,I,Z,r,j,t,G,p,u,Q,e,O,v,B,E,f,h,z,A,W while d do if d<9025695-(-790842)then if d<4334734-(-587716)then if d<3297189-594626 then if d<2035703-310256 then if d<1911279-403141 then if d<732119+23818 then if d<226331+-148063 then I=I+Q o=not e O=I<=h O=o and O o=I>=h o=e and o O=o or O o=734950+14712632 d=O and o O=-743436+17511092 d=d or O else d=true d=897717+5726985 end else d=978673+1710320 C[F[-999293+999298]]=O Y=nil end else if d<-749250+2433645 then c=c+f D=c<=q i=not z D=i and D i=c>=q i=z and i D=i or D i=431081+7058749 d=D and i D=11215051-(-852917)d=d or D else d=-22075+11574180 h=j==u I=h end end else if d<-637410+2841106 then if d<-374051+2343394 then Q=-892747+892748 d=C[i]e=232809+-232803 h=d(Q,e)d=T(-584254+542595)e=T(-214808+173149)U[d]=h Q=U[e]e=-528485-(-528487)d=Q>e d=d and 7807920-60333 or 6002743-437684 else e=#X L=1001876-1001875 Z=q(L,e)y=-144579-(-144580)L=z(X,Z)Z=nil e=C[u]n=L-y o=i(n)e[L]=o L=nil d=14871939-700825 end else if d<3281168-747483 then q=nil d=12284501-(-101878)i=nil z=nil else d=C[F[-707537+707544]]d=d and 1037451+8082974 or-482858+16249025 end end end else if d<5255848-926619 then if d<4496791-599343 then if d<-266602+3958863 then if d<454932+3018324 then O=T(-641024+599396)d=U[O]Y=T(849813-891460)O=d(Y)O={}d=U[T(1030118+-1071740)]else c=C[F[297962-297956]]d=1662320-803451 D=c==Y O=D end else d=4314230-(-627579)end else if d<3855772-(-79107)then d=12485378-(-740742)z=C[f]O=z else C[D]=p E=240131+-240130 t=C[G]M=t+E N=S[M]r=j+N N=-447977+448233 d=r%N j=d M=C[y]N=u+M M=-570883+571139 r=N%M d=-1025726+9781661 u=r end end else if d<-291691+4858681 then if d<658947+3775861 then d=11481462-(-693945)D=C[F[-108194+108196]]c=C[F[-324833-(-324836)]]Y=D==c O=Y else d=12481558-95179 end else if d<-419939+5303183 then r=C[D]p=r d=r and 8371467-395754 or 4114257-31318 else D=T(-466607+424980)c=2743084-676505 O=15182470-(-320217)Y=D^c d=O-Y O=T(-586922+545259)Y=d d=O/Y O={d}d=U[T(-358830-(-317178))]end end end end else if d<6931947-(-656612)then if d<-102686+6178486 then if d<6536872-946360 then if d<5810926-362452 then if d<4011551-(-1032213)then P=nil c=k(c)B=k(B)P=T(-291378-(-249712))D=k(D)L=k(L)j=nil u=nil z=nil q=k(q)R=k(R)i=k(i)D=nil c=nil f=k(f)z=T(-792122-(-750504))i=T(-424439-(-382821))f=U[z]Z=nil X=nil R=K()z=T(-366588-(-324971))d=-223686+14529042 q=f[z]X={}f=K()j={}C[f]=q z=U[i]i=T(-1025412+983771)Z=-477850+477851 q=z[i]i=U[P]L=-371348+371604 P=T(-115677-(-74020))u=K()B=T(9482-51105)z=i[P]P=U[B]B=T(785259-826892)i=P[B]e=L B=K()P=136235+-136235 C[B]=P P=819960-819958 C[R]=P P={}L=353101-353100 C[u]=j o=L L=640553-640553 j=86652+-86652 n=o<L L=Z-o else B=K()C[B]=O j=-918049-(-918114)Q=T(879754-921408)R=-277307-(-277310)d=C[i]X=T(873645-915293)O=d(R,j)R=K()C[R]=O O=U[X]d=50050+-50050 Z=g(4525057-(-397093),{})j=d X={O(Z)}d=-192792-(-192792)u=d O=-945329+945331 d={H(X)}X=d d=X[O]Z=d O=T(349476+-391132)d=U[O]L=C[c]h=U[Q]Q=h(Z)h=T(856826+-898442)I=L(Q,h)L={I()}O=d(H(L))L=K()C[L]=O I=C[R]O=-174415+174416 d=685986+-613719 h=I I=-659031-(-659032)Q=I I=952041-952041 e=Q<I I=O-Q end else e=T(109466-151125)d=U[e]e=T(318093+-359713)U[e]=d d=-814653+11946974 end else if d<4803703-(-940198)then O=p d=r d=16341052-281311 else D=C[F[379058-379057]]f=-550226-(-550228)q=-1028989-(-1028990)c=D(q,f)D=-195420+195421 Y=c==D d=Y and-954438+13129845 or-572639+4981230 O=Y end end else if d<-24644+7312545 then if d<105675+6930035 then d=s(-247504+8627368,{q})h={d()}O={H(h)}d=U[T(174721-216358)]else X=not u R=R+j P=R<=B P=X and P X=R>=B X=u and X P=X or P X=14974663-965206 d=P and X P=-596062+3082654 d=d or P end else if d<6573843-(-921661)then d=C[F[-129876+129877]]D=c B=-602001+602256 P=619944+-619944 i=d(P,B)d=851283+831610 Y[D]=i D=nil else d=U[T(553389+-595054)]O={}end end end else if d<-755745+9147362 then if d<-51845+8135171 then if d<7959777-(-31331)then if d<-737242+8500002 then Q=T(949601-991255)d=U[Q]o=T(-856786+815166)e=U[o]Q=d(e)d=T(928407+-970066)U[d]=Q d=10185685-(-946636)else N=109117-109116 r=S[N]d=3108786-(-974153)p=r end else d=true c=T(133197+-174820)D=K()C[D]=d Y=J i=T(746048-787696)O=U[c]c=T(-351292-(-309653))d=O[c]c=K()C[c]=d q=K()d=l(-210367+2921025,{})C[q]=d f=K()P=g(-622603+15928088,{f})d=false C[f]=d z=U[i]i=z(P)d=i and-985598+4891171 or-400688+13626808 O=i end else if d<-442951+8714949 then d=15678113-66699 else d=16715787-815148 end end else if d<721314+7857512 then if d<361519+8124895 then p=C[D]d=p and 13559016-387765 or 16629982-570241 O=p else n=T(610282-651920)y={}Z={}L=K()X=nil A=T(945968+-987587)e=x(770606+12278955,{L;B;R;f})C[L]=Z q=nil z=nil z=T(-35929+-5717)o=K()Z=K()f=k(f)C[Z]=e e={}N=nil C[o]=e e=U[n]v=C[o]S=T(-804085+762451)G={[A]=v,[S]=N}n=e(y,G)j=nil c=n e=s(377469+15902474,{o;L;u,B,R,Z})i=nil o=k(o)R=k(R)D=e B=k(B)Z=k(Z)B=15237362780979-(-807044)L=k(L)P=nil i=576297+10158975878993 f=D(z,i)u=k(u)q=c[f]P=320931+14870265623913 i=T(116359-158002)z=D(i,P)d=U[T(256801+-298459)]O={}f=c[z]P=T(-74364+32714)i=D(P,B)z=c[i]A=T(-861065-(-819425))B=T(-1049518-(-1007882))R=722197+25876082092540 P=D(B,R)B=T(739711-781326)i=c[P]o=T(449923-491552)P=U[B]j=T(729081-770711)y=27046354601537-(-502513)R=U[j]e=D(o,y)v=24294228603836-1017740 L=c[e]G=D(A,v)y=c[G]o=y..i e=z..o Z=L..e X=f..Z u=q..X X=T(351623-393283)X=R[X]z=nil c=nil D=nil j={X(R,u)}i=nil B=P(H(j))q=nil f=nil P=B()end else if d<683012+8177692 then n=k(n)y=k(y)G=k(G)v=k(v)S=nil o=k(o)A=k(A)d=-809746+882013 else Y=T(-101281-(-59653))d=U[Y]c=-819729+819729 D=C[F[61968-61960]]Y=d(D,c)d=543556+15222611 end end end end end else if d<13480102-(-835921)then if d<11222126-(-1043512)then if d<10691832-(-535897)then if d<11058037-587720 then if d<10189965-(-56691)then if d<10296792-351546 then D=C[F[488816-488813]]c=797368-797336 B=756316-756314 Y=D%c j=593351-593338 q=C[F[552200-552196]]i=C[F[-661867+661869]]Z=C[F[202864+-202861]]X=Z-Y Z=-663069-(-663101)u=X/Z R=j-u P=B^R z=i/P B=-32578-(-32834)f=q(z)q=387117+4294580179 P=-5234+5235 c=f%q f=593943+-593941 q=f^Y D=c/q q=C[F[385147-385143]]i=D%P j=959399+-959143 P=4295810906-843610 z=i*P f=q(z)q=C[F[573345+-573341]]z=q(D)c=f+z f=179216-113680 q=c%f z=c-q i=-716583-(-782119)f=z/i i=776853+-776597 z=q%i Y=nil P=q-z d=10007478-(-462155)i=P/B B=164076+-163820 P=f%B R=f-P c=nil q=nil B=R/j f=nil D=nil R={z;i,P;B}z=nil C[F[107143-107142]]=R i=nil P=nil B=nil else d=R O=B d=B and-371127+5781129 or-79140+15309359 end else c=T(1001420-1043086)d=U[T(-87823-(-46199))]D=U[c]c=T(218572+-260229)Y=D[c]c=C[F[-731262+731263]]D={Y(c)}O={H(D)}end else if d<10065217-(-1014257)then L=#X e=217417-217417 Z=L==e d=-903062+2879561 else d=15428809-(-182605)end end else if d<12632942-773680 then if d<10775952-(-605937)then d=U[T(949102-990728)]O={}else C[D]=I d=C[D]d=d and-1040337+4935650 or 1279759-605250 end else if d<12292661-156071 then d=C[F[890307-890297]]D=C[F[-296316-(-296327)]]Y[d]=D d=C[F[-293286-(-293298)]]D={d(Y)}O={H(D)}d=U[T(82480-124129)]else d=O and 11855778-(-1001696)or-187960+2876953 end end end else if d<13504138-51023 then if d<12391206-(-752216)then if d<13650206-758606 then if d<490976+12109205 then d=U[T(-904105-(-862473))]O={D}else O=T(-60527+18871)q=T(1043579+-1085233)B=s(-332441+16642595,{})d=U[O]Y=C[F[-131327-(-131331)]]P=T(646120-687768)c=U[q]i=U[P]P={i(B)}z={H(P)}i=856368-856366 f=z[i]q=c(f)c=T(-634880-(-593264))D=Y(q,c)Y={D()}O=d(H(Y))D=C[F[632291+-632286]]Y=O O=D d=D and-21158+3597549 or-57416-(-916285)end else Y=C[F[700287-700286]]O=#Y Y=945911+-945911 d=O==Y d=d and 452863+16161338 or 9723628-(-746005)end else if d<14042691-825438 then t=297600+-297599 r=d M=S[t]t=false N=M==t d=N and 530857+15906920 or 5403727-(-308903)p=N else i=T(-751079+709461)z=O u=T(-737231-(-695565))P=T(764280+-805946)O=U[i]i=T(359663+-401304)d=O[i]i=K()C[i]=d O=U[P]P=T(-394517+352896)d=O[P]R=d j=U[u]P=d d=j and 634954+14787524 or 9507457-(-598227)B=j end end else if d<13185292-(-911254)then if d<14368849-540595 then c=347499+-347498 D=C[F[-86132+86135]]Y=D~=c d=Y and 241289+9689363 or 14838927-(-886343)else Q=T(321295+-362918)h=U[Q]P=R Q=T(58790+-100421)I=h[Q]h=I(Y,P)I=C[F[-905074-(-905080)]]d=6609917-(-551628)Q=I()L=h+Q Z=L+z P=nil L=-536850-(-537106)X=Z%L Q=-450331+450332 L=c[D]z=X h=z+Q I=q[h]Z=L..I c[D]=Z end else if d<14398876-216149 then L=#X e=544386-544386 Z=L==e d=Z and 9248166-692232 or 282735+1693764 else L=L+o Z=L<=e y=not n Z=y and Z y=L>=e y=n and y Z=y or Z y=-565656+15372230 d=Z and y Z=-962124+11876216 d=d or Z end end end end else if d<16826278-958384 then if d<-908261+16336175 then if d<189433+15076267 then if d<501093+14526661 then if d<13737282-(-722957)then O=T(-384413-(-342754))d=U[O]Y=T(-128656-(-87036))O=U[Y]Y=T(52865-94485)U[Y]=d Y=T(553683-595342)U[Y]=O Y=C[F[241060-241059]]D=Y()d=16912866-1012227 else Z=L y=Z X[Z]=y Z=nil d=-141097+14446453 end else d=6064618-654616 R=T(-8265-33396)B=U[R]O=B end else if d<665894+14719001 then O={}d=true C[F[-724025+724026]]=d d=U[T(144909-186554)]else X=T(-453727+412061)u=U[X]d=688422+9417262 X=T(374098-415759)j=u[X]B=j end end else if d<15816976-204837 then if d<-218697+15792371 then G=-843985+844240 o=K()n=T(18545-60163)C[o]=I O=U[n]y=606832+-606732 n=T(-713612-(-671971))d=O[n]n=-1029242-(-1029243)O=d(n,y)n=K()y=-632709-(-632709)N=T(160553+-202207)C[n]=O d=C[i]O=d(y,G)y=K()S=-707040+707042 C[y]=O v=-743357-(-743358)G=-381021-(-381022)d=C[i]A=C[n]W=351922+-341922 E=256136+-256136 O=d(G,A)G=K()C[G]=O O=C[i]A=O(v,S)O=-876749-(-876750)d=A==O O=T(-456081-(-414465))A=K()C[A]=d S=T(-31614+-10011)r=U[N]M=C[i]t={M(E,W)}N=r(H(t))r=T(-457874-(-416249))d=T(-98240-(-56589))p=N..r d=Z[d]v=S..p d=d(Z,O,v)v=K()p=l(6618051-852438,{i,o,R,c;D,L,A;v;n;G;y;B})S=T(-530547+488899)C[v]=d O=U[S]S={O(p)}d={H(S)}S=d d=C[A]d=d and-106645+8543185 or 132426+4662911 else d=true d=d and-422164+2221295 or 8586424-1009299 end else if d<15183857-(-571893)then d=900121+12624423 c=25915-25714 D=C[F[-507796-(-507799)]]Y=D*c D=-151074-(-151331)O=Y%D C[F[70932+-70929]]=O else D=449001+-449000 d={}Y=d c=C[F[-498532+498541]]q=c c=-1042369+1042370 f=c c=-766340-(-766340)z=f<c d=-149580+1832473 c=D-f end end end else if d<17350597-975880 then if d<15602949-(-651473)then if d<-141365+16120369 then if d<16492341-542006 then d=true d=d and-576875+14901411 or 12046098-801626 else d=true d=d and 8979851-815511 or 7055085-430383 end else d=842130+7913805 C[D]=O end else if d<15724861-(-568382)then d=C[F[-659871+659872]]c=d Y=J[737425+-737424]D=J[625980-625978]d=c[D]d=d and 831036+3626198 or 15745639-(-735678)else O=10551633-491944 D=T(305038+-346700)c=1010501+5434347 Y=D^c d=O-Y O=T(-311674-(-270019))Y=d d=O/Y O={d}d=U[T(-399839-(-358175))]end end else if d<477530+16082279 then if d<-441254+16907072 then t=487279-487277 d=5891304-178674 M=S[t]t=C[v]N=M==t p=N else d={}f=35184371465678-(-623154)R=-696585+696586 C[F[287031+-287029]]=d O=C[F[749091-749088]]q=O P=T(-78935-(-37312))i=-111813+112068 O=D%f C[F[748366-748362]]=O j=R z=D%i i=-566731-(-566733)f=z+i C[F[-427042-(-427047)]]=f i=U[P]P=T(518657-560299)z=i[P]i=z(Y)z=T(211080-252733)c[D]=z P=-64979+64980 R=1020161+-1020161 d=7700681-539136 z=-424121-(-424289)u=j<R R=P-j B=i end else if d<-584794+17266788 then D=C[F[532381-532379]]c=482445-482200 Y=D*c D=14180035817049-(-191346)O=Y+D Y=-667611+35184372756443 D=434647+-434646 d=O%Y C[F[681996-681994]]=d Y=C[F[-544190-(-544193)]]O=Y~=D d=127958+15597312 else h=C[D]I=h d=h and 2569324-883766 or 10909663-(-642442)end end end end end end end d=#m return H(O)end,function()D=D+(460157-460156)Y[D]=-952474+952475 return D end,{},function(U)for T=-785857-(-785858),#U,-320735-(-320736)do Y[U[T]]=(-35185-(-35186))+Y[U[T]]end if J then local d=J(true)local H=m(d)H[T(-677375+635756)],H[T(-985122+943487)],H[T(261442+-303086)]=U,q,function()return 539580+2837153 end return d else return F({},{[T(889785-931420)]=q,[T(5856+-47475)]=U;[T(957363+-999007)]=function()return 122274+3254459 end})end end,function(U)Y[U]=Y[U]-(-458709+458710)if-830284-(-830284)==Y[U]then Y[U],C[U]=nil,nil end end return(f(898654+7108597,{}))(H(O))end)(getfenv and getfenv()or _ENV,unpack or table[T(-478046+436385)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+
+
+local MONSTER_POSITIONS = {
+    ["갑옷 고블린"] = Vector3.new(71, 142.34286499023438, 2500),
+    ["고블린"] = Vector3.new(-69, 120.30000305175781, 2218),
+    ["페어리"] = Vector3.new(-1200, 1.1499900817871094, 2236),
+    ["포자링"] = Vector3.new(30, 11.841017723083496, 50),
+    ["겨울성의 수호신"] = Vector3.new(3309.999755859375, 381.0714416503906, 5350.00048828125),
+    ["나락화 박쥐"] = Vector3.new(-69, 120.30000305175781, 2218),
+    ["나락화 수호자"] = Vector3.new(131, -534.7440795898438, 4708),
+    ["눈사람"] = Vector3.new(614, 207.1503448486328, 4357),
+    ["동굴 골렘"] = Vector3.new(-129, 60.04035568237305, 2628),
+    ["마그마 블래스터"] = Vector3.new(-72, -213.89990234375, 3428),
+    ["무사"] = Vector3.new(-871, 152.45999145507812, 3655),
+    ["미라"] = Vector3.new(-106, 135.1693115234375, 4129),
+    ["슬라임"] = Vector3.new(68, 142.3430938720703, 2614),
+    ["샌드 슬라임"] = Vector3.new(-136, 125.43000793457031, 3569),
+    ["예티"] = Vector3.new(1147, 164.89500427246094, 3839),
+    ["선혈의 사무라이"] = Vector3.new(-1310.6466064453125, 223.47955322265625, 3568.743896484375),
+    ["용암 골렘"] = Vector3.new(327, -168.61343383789062, 3066),
+    ["타이탄 아머로드"] = Vector3.new(3056.999267578125, 375.0549621582031, 4665.9990234375),
+    ["피라미드 수호자"] = Vector3.new(-540, 64.90074157714844, 4657),
+    ["파괴의 광선, 인큐네이션"] = Vector3.new(3056.999267578125, 375.0549621582031, 4665.9990234375),
+    ["갈색옷 주민"] = Vector3.new(-492.000244140625, 4.002931594848633, 1165.9996337890625),
+    ["기사 주민"] = Vector3.new(25.000381469726562, 4.00006103515625, 964.9990844726562),
+    ["다크 기사단장"] = Vector3.new(-162, 12.994091987609863, 1981),
+    ["더 할루시네이션"] = Vector3.new(566, 140.85122680664062, 565),
+    ["마나 광물"] = Vector3.new(1176, -84.3188247680664, 2356),
+    ["마나 광석"] = Vector3.new(-1091, 3.5250186920166016, 2042),
+    ["서리 늑대"] = Vector3.new(344, 22.55022621154785, 4070),
+    ["순수한 마나 광석"] = Vector3.new(1405, -91.07728576660156, 2096),
+    ["아르카나"] = Vector3.new(1065, 60.347862243652344, 4056),
+    ["얼어붙은 핏빛"] = Vector3.new(-119, 99.0980224609375, 6256),
+    ["용력석"] = Vector3.new(1141, -111.9031753540039, 2089),
+    ["크람푸스"] = Vector3.new(-1610, 8.506329536437988, 3071),
+    ["파라다이스 수장"] = Vector3.new(2208, 293.93072509765625, 2888),
+    ["파란옷 주민"] = Vector3.new(-100.73590850830078, 4.00006103515625, 697.5418701171875),
+    ["[심연의 주인] 포세이돈"] = Vector3.new(2232.861572265625, -823.560791015625, -2663.22705078125),
+    ["[공허의 방랑자] 보이드로버"] = Vector3.new(-39.344581604003906, 48.386863708496094, -216.33465576171875),
+    ["분홍 해저 조개"] = Vector3.new(2020.975830078125, -493.7951965332031, -424.9096984863281),
+    ["브라키온"] = Vector3.new(3138.130126953125, -766.3614501953125, -3.080322265625),
+    ["파랑 해저 조개"] = Vector3.new(1417.9583740234375, -493.7951965332031, -424.9096984863281),
+    ["해양의 수호신 - 스칼라"] = Vector3.new(1183.396484375, -847.669921875, -715.5638427734375),
+    ["해저 감시자 - 오웬"] = Vector3.new(2207.57470703125, -711.6036376953125, -1405.67578125),
+    ["심연결정"] = Vector3.new(2160, -787.9330444335938, -1069),
+    ["심연의 심장"] = Vector3.new(2174, -792.133056640625, -1195),
+    ["어비스 코어"] = Vector3.new(2165, -784.4330444335938, -1004),
+}
+local spawnList = {
+    {name = "루나마을 스폰", pos = Vector3.new(-44.0300178527832, 130.2978515625, 1996.1300048828125)},
+    {name = "메이플 스폰", pos = Vector3.new(-1440.09423828125, 193.31077575683594, 3793.40234375)},
+    {name = "겨울스폰", pos = Vector3.new(338.06463623046875, 186.7691650390625, 3753.471923828125)},
+    {name = "겨울성 스폰", pos = Vector3.new(2183.8564453125, 373.1597900390625, 4558.10107421875)},
+    {name = "2차원 포털 앞", pos = Vector3.new(-37.03, 174.36, -2232.93)},
+    {name = "루나성", pos = Vector3.new(-115.56657409667969, 4.43785285949707, 648.7597045898438)},
+    {name = "미궁", pos = Vector3.new(-1647.788818359375, 0.22284305095672607, 2690.137939453125)},
+    {name = "파라다이스", pos = Vector3.new(1021.406494140625, 78.89376068115234, 2947.400146484375)},
+    {name = "프로스티아", pos = Vector3.new(-242.86607360839844, 18.665813446044922, 3275.5498046875)},
+    {name = "프로스티아2", pos = Vector3.new(9.930479049682617, 32.68927764892578, 4849.27490234375)},
+    {name = "World", pos = Vector3.new(-1223.001220703125, 41.988922119140625, -288.90130615234375)},
+    {name = "아틀란티스 입구", pos = Vector3.new(1455.9371337890625, 217.05123901367188, -279.80255126953125)},
+}
+-- nameToKey 제거! (이름 그대로 사용)
+local rememberedPos = nil
+local exName, exVer = "Unknown", "??"
+if identifyexecutor then
+    local a, b = identifyexecutor()
+    if a then
+        exName, exVer = a, b
+    end
+end
+if exName == "Solara" then
+    game.Players.LocalPlayer:Kick("Solara 실행기는 지원되지 않습니다.(추천 실행기 : 제노)")
+    return
+end
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local Workspace = game:GetService("Workspace")
+local UserInputService = game:GetService("UserInputService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local LocalPlayer = Players.LocalPlayer
+if not LocalPlayer then return end
+-- ========== 설정 ==========
+local MOBS_FOLDER_NAME = "Mobs"
+local SPAWN_FOLDER_NAME = "SpawnPoint"
+local TP_DISTANCE = 5
+local MOVE_SPEED = 100
+local SPEED_MIN, SPEED_MAX = 1, 1000
+local SNAP_THRESHOLD = 0.5
+local LIST_HEIGHT = 260
+local MoveMode = "Smooth"
+local NoclipEnabled = false
+local NoclipConnection = nil
+local primaryWasNil = true
+-- 오토클릭
+local AutoClickEnabled = false
+local AutoClickLoopRunning = false
+local ClickInterval = 0.1
+local ClickPressTime = 0.01
+local Y_OFFSET = 0 -- 기본 0
+-- 상태
+local AutoFarmEnabled = false
+local CurrentTarget = nil
+local TargetList = {}
+local GUIObjects = {}
+local FixedMonsterNames = {Primary = nil, Secondary = nil}
+local FixedSpawnPoint = nil
+local TP_DIRECTION = "Back"
+-- UI 상호작용 플래그
+local UIInteraction = false
+local function GetDirectionLocalOffset(direction, distance)
+    distance = distance or TP_DISTANCE
+    if direction == "Back" then
+        return Vector3.new(0, 0, distance) -- 기존: 순수 뒤
+    elseif direction == "Front" then
+        return Vector3.new(0, 0, -distance) -- 기존: 순수 앞
+    elseif direction == "Left" then
+        return Vector3.new(-distance, 0, 0) -- 기존: 순수 왼쪽
+    elseif direction == "Right" then
+        return Vector3.new(distance, 0, 0) -- 기존: 순수 오른쪽
+    elseif direction == "Up" then
+        return Vector3.new(0, distance, 0) -- 기존: 순수 위
+    elseif direction == "Down" then
+        return Vector3.new(0, -distance, 0) -- ✅ 순수 아래로 변경 (대각선 제거)
+    else
+        return Vector3.new(0, 0, distance)
+    end
+end
+-- ========== 스타일 헬퍼 ==========
+local function ApplyRounded(uiElement, radius)
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0, radius or 8)
+    corner.Parent = uiElement
+end
+local function ApplyStroke(uiElement, thickness, color)
+    local stroke = Instance.new("UIStroke")
+    stroke.Thickness = thickness or 1
+    stroke.Color = color or Color3.fromRGB(230,230,230)
+    stroke.Transparency = 0.75
+    stroke.Parent = uiElement
+end
+local function CreateGUI()
+    pcall(function()
+        local old = game.CoreGui:FindFirstChild("AutoFarmGUI")
+        if old then old:Destroy() end
+    end)
+    local ScreenGui = Instance.new("ScreenGui")
+    ScreenGui.Name = "AutoFarmGUI"
+    ScreenGui.Parent = game.CoreGui
+    -- 열기 버튼
+    local OpenBtn = Instance.new("TextButton")
+    OpenBtn.Size = UDim2.new(0, 70, 0, 30)
+    OpenBtn.Position = UDim2.new(0, 16, 0, 16)
+    OpenBtn.BackgroundColor3 = Color3.fromRGB(24,24,24)
+    OpenBtn.TextColor3 = Color3.fromRGB(240,240,240)
+    OpenBtn.Text = "열기"
+    OpenBtn.Font = Enum.Font.GothamSemibold
+    OpenBtn.TextSize = 14
+    OpenBtn.Parent = ScreenGui
+    ApplyRounded(OpenBtn, 8)
+    ApplyStroke(OpenBtn, 1, Color3.fromRGB(240,240,240))
+    -- 메인 프레임
+    local Frame = Instance.new("Frame")
+    Frame.Size = UDim2.new(0, 520, 0, 620)
+    Frame.Position = UDim2.new(0.5, -260, 0.5, -310)
+    Frame.BackgroundColor3 = Color3.fromRGB(20,20,22)
+    Frame.BorderSizePixel = 0
+    Frame.Parent = ScreenGui
+    Frame.Visible = true
+    GUIObjects.Frame = Frame
+    ApplyRounded(Frame, 14)
+    ApplyStroke(Frame, 1.25, Color3.fromRGB(235,235,235))
+    do
+        local TweenService = game:GetService("TweenService")
+        local gui = game.CoreGui.AutoFarmGUI
+        local frame = gui.Frame
+        local openBtn = gui:FindFirstChild("TextButton")
+        local scale = 1.0
+        local original = {} -- 원본 사이즈/포지션 저장용
+        -- 원본 저장 (최초 1번만)
+        local function SaveOriginal()
+            if original.saved then return end
+            original.saved = true
+            original.frameSize = frame.Size
+            original.framePos = frame.Position
+            original.openSize = openBtn.Size
+            original.openPos = openBtn.Position
+            original.openText = openBtn.TextSize
+            for _, obj in ipairs(frame:GetDescendants()) do
+                if obj:IsA("GuiObject") then
+                    original[obj] = {
+                        Size = obj.Size,
+                        Position = obj.Position,
+                        TextSize = (obj:IsA("TextLabel") or obj:IsA("TextButton") or obj:IsA("TextBox")) and obj.TextSize or nil
+                    }
+                end
+            end
+        end
+        -- 스케일 적용
+        local function ApplyScale(s)
+            SaveOriginal()
+            scale = s
+            -- 메인 프레임
+            frame.Size = UDim2.new(original.frameSize.X.Scale, original.frameSize.X.Offset * s, original.frameSize.Y.Scale, original.frameSize.Y.Offset * s)
+            frame.Position = UDim2.new(original.framePos.X.Scale, original.framePos.X.Offset * s + (1-s)*260, original.framePos.Y.Scale, original.framePos.Y.Offset * s + (1-s)*310)
+            -- 열기 버튼
+            openBtn.Size = UDim2.new(0, original.openSize.X.Offset * s, 0, original.openSize.Y.Offset * s)
+            openBtn.Position = UDim2.new(0, 16*s, 0, 16*s)
+            openBtn.TextSize = original.openText * s
+            -- 모든 자식 요소 (ScrollingFrame 포함 완벽 적용)
+            for obj, data in pairs(original) do
+                if typeof(data) == "table" and obj and obj.Parent then
+                    if data.Size then
+                        obj.Size = UDim2.new(data.Size.X.Scale, data.Size.X.Offset * s, data.Size.Y.Scale, data.Size.Y.Offset * s)
+                    end
+                    if data.Position then
+                        obj.Position = UDim2.new(data.Position.X.Scale, data.Position.X.Offset * s, data.Position.Y.Scale, data.Position.Y.Offset * s)
+                    end
+                    if data.TextSize then
+                        obj.TextSize = data.TextSize * s
+                    end
+                end
+            end
+        end
+        -- 모바일 자동 축소
+        if game:GetService("UserInputService").TouchEnabled and not game:GetService("UserInputService").KeyboardEnabled then
+            scale = 0.68
+            ApplyScale(0.68)
+        end
+        -- − 버튼 (고정 크기)
+        local minus = Instance.new("TextButton")
+        minus.Size = UDim2.new(0,44,0,44)
+        minus.Position = UDim2.new(0,14,0,56)
+        minus.BackgroundColor3 = Color3.fromRGB(15,15,15)
+        minus.Text = "−"
+        minus.TextColor3 = Color3.new(1,1,1)
+        minus.TextSize = 32
+        minus.Font = Enum.Font.GothamBlack
+        minus.Parent = gui
+        ApplyRounded(minus,14)
+        ApplyStroke(minus,2.5,Color3.new(1,1,1))
+        -- + 버튼 (고정 크기)
+        local plus = Instance.new("TextButton")
+        plus.Size = UDim2.new(0,44,0,44)
+        plus.Position = UDim2.new(0,64,0,56)
+        plus.BackgroundColor3 = Color3.fromRGB(15,15,15)
+        plus.Text = "+"
+        plus.TextColor3 = Color3.new(1,1,1)
+        plus.TextSize = 28
+        plus.Font = Enum.Font.GothamBlack
+        plus.Parent = gui
+        ApplyRounded(plus,14)
+        ApplyStroke(plus,2.5,Color3.new(1,1,1))
+        -- 클릭 이벤트
+        minus.MouseButton1Click:Connect(function()
+            if scale > 0.55 then
+                ApplyScale(scale - 0.05)
+            end
+        end)
+        plus.MouseButton1Click:Connect(function()
+            if scale < 3.0 then
+                ApplyScale(scale + 0.05)
+            end
+        end)
+        -- 기존 − + 버튼 만들고 난 뒤 마지막에 이거만 추가 (또는 기존 거 교체)
+        task.delay(1, function()
+            if minus and minus.Parent then minus.Visible = true end
+            if plus and plus.Parent then plus.Visible = true end
+        end)
+    end
+    -- Header
+    local HeaderHeight = 28
+    local Header = Instance.new("Frame")
+    Header.Size = UDim2.new(1, -36, 0, HeaderHeight)
+    Header.Position = UDim2.new(0, 18, 0, 8)
+    Header.BackgroundColor3 = Color3.fromRGB(18,18,18)
+    Header.Parent = Frame
+    ApplyRounded(Header, 8)
+    ApplyStroke(Header, 1, Color3.fromRGB(235,235,235))
+    local HeaderLabel = Instance.new("TextLabel")
+    HeaderLabel.Size = UDim2.new(1, -120, 1, 0)
+    HeaderLabel.Position = UDim2.new(0, 12, 0, 0)
+    HeaderLabel.BackgroundTransparency = 1
+    HeaderLabel.Text = "제목없는 RPG(무료)"
+    HeaderLabel.Font = Enum.Font.GothamBold
+    HeaderLabel.TextSize = 16
+    HeaderLabel.TextColor3 = Color3.fromRGB(245,245,245)
+    HeaderLabel.TextXAlignment = Enum.TextXAlignment.Left
+    HeaderLabel.Parent = Header
+    local HeaderCloseBtn = Instance.new("TextButton")
+    HeaderCloseBtn.Size = UDim2.new(0, 41, 0, HeaderHeight - 4)
+    HeaderCloseBtn.Position = UDim2.new(1.12, -100, 0, 2)
+    HeaderCloseBtn.BackgroundColor3 = Color3.fromRGB(28,28,28)
+    HeaderCloseBtn.Text = "닫기"
+    HeaderCloseBtn.Font = Enum.Font.Gotham
+    HeaderCloseBtn.TextSize = 13
+    HeaderCloseBtn.TextColor3 = Color3.fromRGB(240,240,240)
+    HeaderCloseBtn.Parent = Header
+    ApplyRounded(HeaderCloseBtn, 6)
+    ApplyStroke(HeaderCloseBtn, 1, Color3.fromRGB(240,240,240))
+    HeaderCloseBtn.MouseButton1Click:Connect(function()
+        Frame.Visible = false
+        OpenBtn.Visible = true
+    end)
+    -- ===== ClickContainer 끝부분 (AlwaysAutoSkill 버튼 아래 ~340px 위치)에 추가 =====
+   
+    -- TopBar
+    local TopBarY = 8 + HeaderHeight + 6
+    local TopBar = Instance.new("Frame")
+    TopBar.Size = UDim2.new(1, 0, 0, 52)
+    TopBar.Position = UDim2.new(0, 0, 0, TopBarY)
+    TopBar.BackgroundTransparency = 1
+    TopBar.Parent = Frame
+    local function NewTabButton(parent, xScale, text)
+        local b = Instance.new("TextButton")
+        b.Size = UDim2.new(0, 96, 0, 34)
+        b.Position = UDim2.new(xScale, 0, 0, 10)
+        b.BackgroundColor3 = Color3.fromRGB(26,26,26)
+        b.Text = text
+        b.Font = Enum.Font.Gotham
+        b.TextSize = 13
+        b.TextColor3 = Color3.fromRGB(230,230,230)
+        b.Parent = parent
+        ApplyRounded(b, 8)
+        ApplyStroke(b, 1, Color3.fromRGB(245,245,245))
+        return b
+    end
+    -- 탭: 메인 / 방향 / 클릭(오토) / 정보
+    local TabMain = NewTabButton(TopBar, 0.1, "메인")
+    local TabDir = NewTabButton(TopBar, 0.3, "방향")
+    local TabClick = NewTabButton(TopBar, 0.5, "보조")
+    local TabInfo = NewTabButton(TopBar, 0.7, "정보")
+    GUIObjects.TabMain, GUIObjects.TabDir, GUIObjects.TabClick, GUIObjects.TabInfo = TabMain, TabDir, TabClick, TabInfo
+    OpenBtn.MouseButton1Click:Connect(function()
+        Frame.Visible = true
+        OpenBtn.Visible = false
+    end)
+    -- Drag handlers
+    do
+        local topDragging, topStartPos, topDragOrigin = false, nil, nil
+        TopBar.InputBegan:Connect(function(inp)
+            if UIInteraction then return end
+            if inp.UserInputType == Enum.UserInputType.MouseButton1 or inp.UserInputType == Enum.UserInputType.Touch then
+                topDragging = true
+                topDragOrigin = inp.Position
+                topStartPos = Frame.Position
+                inp.Changed:Connect(function()
+                    if inp.UserInputState == Enum.UserInputState.End then topDragging = false end
+                end)
+            end
+        end)
+        TopBar.InputChanged:Connect(function(inp)
+            if topDragging and (inp.UserInputType == Enum.UserInputType.MouseMovement or inp.UserInputType == Enum.UserInputType.Touch) then
+                local delta = inp.Position - topDragOrigin
+                Frame.Position = UDim2.new(topStartPos.X.Scale, topStartPos.X.Offset + delta.X, topStartPos.Y.Scale, topStartPos.Y.Offset + delta.Y)
+            end
+        end)
+        local headerDragging, headerStartPos, headerDragOrigin = false, nil, nil
+        Header.InputBegan:Connect(function(inp)
+            if UIInteraction then return end
+            if inp.UserInputType == Enum.UserInputType.MouseButton1 or inp.UserInputType == Enum.UserInputType.Touch then
+                headerDragging = true
+                headerDragOrigin = inp.Position
+                headerStartPos = Frame.Position
+                inp.Changed:Connect(function()
+                    if inp.UserInputState == Enum.UserInputState.End then headerDragging = false end
+                end)
+            end
+        end)
+        Header.InputChanged:Connect(function(inp)
+            if headerDragging and (inp.UserInputType == Enum.UserInputType.MouseMovement or inp.UserInputType == Enum.UserInputType.Touch) then
+                local delta = inp.Position - headerDragOrigin
+                Frame.Position = UDim2.new(headerStartPos.X.Scale, headerStartPos.X.Offset + delta.X, headerStartPos.Y.Scale, headerStartPos.Y.Offset + delta.Y)
+            end
+        end)
+    end
+    -- Content
+    local ContentStartY = TopBarY + 52 + 12
+    local Content = Instance.new("Frame")
+    Content.Size = UDim2.new(1, -36, 1, -(ContentStartY + 28))
+    Content.Position = UDim2.new(0, 18, 0, ContentStartY)
+    Content.BackgroundTransparency = 1
+    Content.Parent = Frame
+    -- containers
+    local MainContainer = Instance.new("Frame") MainContainer.Size = UDim2.new(1,0,1,0) MainContainer.Position = UDim2.new(0,0,0,0) MainContainer.BackgroundTransparency = 1 MainContainer.Parent = Content GUIObjects.MainContainer = MainContainer
+    local ClickContainer = Instance.new("Frame") ClickContainer.Size = UDim2.new(1,0,1,0) ClickContainer.Position = UDim2.new(0,0,0,0) ClickContainer.BackgroundTransparency = 1 ClickContainer.Parent = Content ClickContainer.Visible = false GUIObjects.ClickContainer = ClickContainer
+    local DirContainer = Instance.new("Frame") DirContainer.Size = UDim2.new(1,0,1,0) DirContainer.Position = UDim2.new(0,0,0,0) DirContainer.BackgroundTransparency = 1 DirContainer.Parent = Content DirContainer.Visible = false GUIObjects.DirContainer = DirContainer
+    local InfoContainer = Instance.new("Frame") InfoContainer.Size = UDim2.new(1,0,1,0) InfoContainer.Position = UDim2.new(0,0,0,0) InfoContainer.BackgroundTransparency = 1 InfoContainer.Parent = Content InfoContainer.Visible = false GUIObjects.InfoContainer = InfoContainer
+    -- MAIN content
+    local labelY = 6
+    local function AddMainLabel(txt)
+        local lbl = Instance.new("TextLabel")
+        lbl.Size = UDim2.new(1, -20, 0, 22)
+        lbl.Position = UDim2.new(0, 10, 0, labelY)
+        lbl.BackgroundTransparency = 1
+        lbl.Text = txt
+        lbl.Font = Enum.Font.Gotham
+        lbl.TextSize = 14
+        lbl.TextColor3 = Color3.fromRGB(235,235,235)
+        lbl.TextXAlignment = Enum.TextXAlignment.Left
+        lbl.Parent = MainContainer
+        labelY = labelY + 28
+        return lbl
+    end
+    -- 기존 NameLabel 하나만 있던 부분을 아래로 교체
+    GUIObjects.NameLabel = AddMainLabel("1순위: 없음")
+    GUIObjects.SecondaryLabel = AddMainLabel("2순위: 없음") -- 새로 추가
+    GUIObjects.LevelLabel = AddMainLabel("최소 레벨: -")
+    GUIObjects.HealthLabel = AddMainLabel("체력: - / -")
+    -- (주의) 메인에서 스킬 UI 제거 — 스킬은 이제 오토 탭에 위치합니다.
+    -- 오토팜 버튼들
+    local function NewActionButton(parent, xPct, y, text, accent)
+        local b = Instance.new("TextButton")
+        b.Size = UDim2.new(0.45, -8, 0, 36)
+        b.Position = UDim2.new(xPct, (xPct==0 and 10 or 6), 1, y)
+        b.BackgroundColor3 = Color3.fromRGB(26,26,26)
+        b.Text = text
+        b.Font = Enum.Font.GothamSemibold
+        b.TextSize = 14
+        b.TextColor3 = Color3.fromRGB(235,235,235)
+        b.Parent = parent
+        ApplyRounded(b, 8)
+        ApplyStroke(b, 1, Color3.fromRGB(245,245,245))
+        local accentBar = Instance.new("Frame")
+        accentBar.Size = UDim2.new(0, 6, 1, 0)
+        accentBar.Position = UDim2.new(0, 0, 0, 0)
+        accentBar.BackgroundColor3 = accent or Color3.fromRGB(0,160,100)
+        accentBar.Parent = b
+        ApplyRounded(accentBar, 6)
+        return b
+    end
+    local toggleBtn = NewActionButton(MainContainer, 0, -124, "오토팜 OFF", Color3.fromRGB(0,160,100))
+    GUIObjects.ToggleButton = toggleBtn
+
+    local selectBtn = NewActionButton(MainContainer, 0.55, -124, "타겟 선택", Color3.fromRGB(255,140,0))
+
+    -- ────────────────────────────────────────────────
+    -- 토글키 설정 버튼 (오토팜 버튼 바로 아래)
+    -- ────────────────────────────────────────────────
+
+    local ToggleKey = Enum.KeyCode.F1           -- 기본 토글 키 (원하는 키로 변경 가능)
+    local IsWaitingForKey = false
+
+    local keyBindBtn = Instance.new("TextButton")
+    keyBindBtn.Name = "KeyBindButton"
+    keyBindBtn.Size = UDim2.new(0.435, 0, 0, 38)
+    keyBindBtn.Position = UDim2.new(0.02, 0, 1, -124 + 48)   -- 오토팜 버튼 바로 아래 (높이 38 + 여백 10)
+    keyBindBtn.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+    keyBindBtn.Text = "오토팜 토글키 설정 (" .. ToggleKey.Name .. ")"
+    keyBindBtn.TextColor3 = Color3.fromRGB(250, 250, 250)
+    keyBindBtn.Font = Enum.Font.GothamSemibold
+    keyBindBtn.TextSize = 14
+    keyBindBtn.ZIndex = 10  -- 클릭 우선순위 높임 (필요시)
+    keyBindBtn.Parent = MainContainer
+
+    ApplyRounded(keyBindBtn, 8)
+    ApplyStroke(keyBindBtn, 1.2, Color3.fromRGB(100, 140, 255))
+
+    -- 키 설정 버튼 클릭 이벤트
+    keyBindBtn.MouseButton1Click:Connect(function()
+        if IsWaitingForKey then return end
+        
+        IsWaitingForKey = true
+        keyBindBtn.Text = "키 입력 대기중... 아무 키나 누르세요"
+        keyBindBtn.BackgroundColor3 = Color3.fromRGB(255, 170, 60)
+        
+        -- 15초 후 자동 취소
+        task.spawn(function()
+            task.wait(15)
+            if IsWaitingForKey then
+                IsWaitingForKey = false
+                keyBindBtn.Text = "토글키 설정 (" .. ToggleKey.Name .. ")"
+                keyBindBtn.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+            end
+        end)
+    end)
+
+    -- ────────────────────────────────────────────────
+    -- 키 입력 감지 및 오토팜 토글
+    -- ────────────────────────────────────────────────
+
+    UserInputService.InputBegan:Connect(function(input, gameProcessed)
+        if gameProcessed then return end
+        
+        -- 키 설정 모드
+        if IsWaitingForKey and input.KeyCode ~= Enum.KeyCode.Unknown then
+            ToggleKey = input.KeyCode
+            IsWaitingForKey = false
+            
+            keyBindBtn.Text = "토글키 설정 (" .. ToggleKey.Name .. ")"
+            keyBindBtn.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+            
+            print("토글키 변경 → " .. ToggleKey.Name)
+            return
+        end
+        
+        -- 토글키 눌렀을 때 오토팜 토글
+        if input.KeyCode == ToggleKey then
+            AutoFarmEnabled = not AutoFarmEnabled
+            
+            toggleBtn.BackgroundColor3 = AutoFarmEnabled and Color3.fromRGB(18,90,18) or Color3.fromRGB(26,26,26)
+            toggleBtn.Text = AutoFarmEnabled and "오토팜 ON" or "오토팜 OFF"
+            
+            if AutoFarmEnabled then
+                NoclipEnabled = true
+                print("오토팜 ON (" .. ToggleKey.Name .. " 키)")
+                NoclipConnection = RunService.Stepped:Connect(function()
+                    if NoclipEnabled and LocalPlayer.Character then
+                        for _, v in ipairs(LocalPlayer.Character:GetDescendants()) do
+                            if v:IsA("BasePart") and v ~= LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                                v.CanCollide = false
+                            end
+                        end
+                    end
+                end)
+            else
+                NoclipEnabled = false
+                if NoclipConnection then
+                    NoclipConnection:Disconnect()
+                    NoclipConnection = nil
+                end
+                if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                    local hrp = LocalPlayer.Character.HumanoidRootPart
+                    pcall(function()
+                        hrp.CFrame = hrp.CFrame + Vector3.new(0, 50, 0)
+                        print("오토팜 OFF → 50스터드 위로 올림 (자연 착지)")
+                    end)
+                end
+                print("오토팜 OFF")
+            end
+        end
+    end)
+
+    -- ────────────────────────────────────────────────
+    -- 스폰포인트 버튼 (기존 그대로)
+    -- ────────────────────────────────────────────────
+
+    local spawnBtn = Instance.new("TextButton")
+    spawnBtn.Size = UDim2.new(0.9, 0, 0, 36)
+    spawnBtn.Position = UDim2.new(0.05, 0, 1, -170)
+    spawnBtn.BackgroundColor3 = Color3.fromRGB(26,26,26)
+    spawnBtn.Text = "스폰포인트 선택"
+    spawnBtn.Font = Enum.Font.GothamSemibold
+    spawnBtn.TextSize = 14
+    spawnBtn.TextColor3 = Color3.fromRGB(235,235,235)
+    spawnBtn.Parent = MainContainer
+    ApplyRounded(spawnBtn, 8)
+    ApplyStroke(spawnBtn, 1, Color3.fromRGB(240,240,240))
+
+    toggleBtn.MouseButton1Click:Connect(function()
+        AutoFarmEnabled = not AutoFarmEnabled
+        toggleBtn.BackgroundColor3 = AutoFarmEnabled and Color3.fromRGB(18,90,18) or Color3.fromRGB(26,26,26)
+        toggleBtn.Text = AutoFarmEnabled and "오토팜 ON" or "오토팜 OFF"
+        
+        if AutoFarmEnabled then
+            NoclipEnabled = true
+            print("오토팜 ON")
+            NoclipConnection = RunService.Stepped:Connect(function()
+                if NoclipEnabled and LocalPlayer.Character then
+                    for _, v in ipairs(LocalPlayer.Character:GetDescendants()) do
+                        if v:IsA("BasePart") and v ~= LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                            v.CanCollide = false
+                        end
+                    end
+                end
+            end)
+        else
+            NoclipEnabled = false
+            if NoclipConnection then
+                NoclipConnection:Disconnect()
+                NoclipConnection = nil
+            end
+            if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                local hrp = LocalPlayer.Character.HumanoidRootPart
+                pcall(function()
+                    hrp.CFrame = hrp.CFrame + Vector3.new(0, 50, 0)
+                    print("오토팜 OFF → 50스터드 위로 올림 (자연 착지)")
+                end)
+            end
+            print("오토팜 OFF")
+        end
+    end)
+    selectBtn.MouseButton1Click:Connect(function()
+    local playerLevel = LocalPlayer:FindFirstChild("leaderstats") 
+        and LocalPlayer.leaderstats:FindFirstChild("Level") 
+        and LocalPlayer.leaderstats.Level.Value or 0
+   
+    if GUIObjects.ListFrame then
+        GUIObjects.ListFrame:Destroy()
+        GUIObjects.ListFrame = nil
+    end
+
+    local START_Y = 88
+    local Scroll = Instance.new("ScrollingFrame")
+    Scroll.Size = UDim2.new(1, -36, 0, LIST_HEIGHT)
+    Scroll.Position = UDim2.new(0, 18, 0, START_Y)
+    Scroll.BackgroundColor3 = Color3.fromRGB(18,18,18)
+    Scroll.BorderSizePixel = 0
+    Scroll.CanvasSize = UDim2.new(0,0,0,0)
+    Scroll.ScrollBarThickness = 8
+    Scroll.Parent = MainContainer
+    ApplyRounded(Scroll, 8)
+    ApplyStroke(Scroll, 1, Color3.fromRGB(235,235,235))
+    Scroll.ClipsDescendants = true
+    GUIObjects.ListFrame = Scroll
+
+    -- X 닫기 버튼 (기존 그대로)
+    local CloseBtn = Instance.new("TextButton")
+    CloseBtn.Size = UDim2.new(0, 30, 0, 30)
+    CloseBtn.Position = UDim2.new(1, -38, 0, 8)
+    CloseBtn.BackgroundTransparency = 1
+    CloseBtn.Text = "X"
+    CloseBtn.TextColor3 = Color3.fromRGB(200, 200, 200)
+    CloseBtn.Font = Enum.Font.GothamBold
+    CloseBtn.TextSize = 20
+    CloseBtn.Parent = Scroll
+    CloseBtn.MouseEnter:Connect(function() CloseBtn.TextColor3 = Color3.fromRGB(255, 100, 100) end)
+    CloseBtn.MouseLeave:Connect(function() CloseBtn.TextColor3 = Color3.fromRGB(200, 200, 200) end)
+    CloseBtn.MouseButton1Click:Connect(function()
+        if Scroll and Scroll.Parent then
+            Scroll:Destroy()
+            GUIObjects.ListFrame = nil
+        end
+    end)
+
+    local layout = Instance.new("UIListLayout")
+    layout.Parent = Scroll
+    layout.SortOrder = Enum.SortOrder.LayoutOrder
+    layout.Padding = UDim.new(0, 6)
+    layout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+
+    local function updateCanvas()
+        Scroll.CanvasSize = UDim2.new(0,0,0, layout.AbsoluteContentSize.Y + 600)
+    end
+    layout:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(updateCanvas)
+
+    local mobDataList = {}   -- {name, level} 모음
+    local displayedNames = {} -- 중복 방지
+
+    local mobsFolder = Workspace:FindFirstChild(MOBS_FOLDER_NAME)
+    if not mobsFolder then
+        local lbl = Instance.new("TextLabel")
+        lbl.Size = UDim2.new(1, -40, 0, 48)
+        lbl.Position = UDim2.new(0, 20, 0, 6)
+        lbl.BackgroundTransparency = 1
+        lbl.TextColor3 = Color3.fromRGB(220, 180, 180)
+        lbl.Text = "Mobs 폴더를 찾을 수 없습니다."
+        lbl.Font = Enum.Font.Gotham
+        lbl.TextSize = 14
+        lbl.Parent = Scroll
+        return
+    end
+
+    -- 1. 레벨 정보 모으기 (죽은 몹도 포함)
+    for _, mob in ipairs(mobsFolder:GetChildren()) do
+        if not mob:IsA("Model") then continue end
+        local name = mob.Name
+        
+        if displayedNames[name] then continue end
+        
+        local config = mob:FindFirstChild("Config")
+        if not config then continue end
+        
+        local success, cfg = pcall(require, config)
+        if not success or not cfg or not cfg.RequireLevel then continue end
+        
+        if playerLevel >= cfg.RequireLevel then
+            displayedNames[name] = true
+            table.insert(mobDataList, {
+                name = name,
+                level = cfg.RequireLevel
+            })
+        end
+    end
+
+    -- 2. 레벨 낮은 순으로 정렬 (오름차순)
+    table.sort(mobDataList, function(a, b)
+        return a.level < b.level
+    end)
+
+    local allButtons = {}
+
+    -- 3. 정렬된 순서대로 버튼 생성
+    for _, data in ipairs(mobDataList) do
+        local name = data.name
+        local level = data.level
+
+        local btn = Instance.new("TextButton")
+        btn.Size = UDim2.new(1, -44, 0, 42)
+        btn.BackgroundColor3 = Color3.fromRGB(24,24,24)
+        btn.TextColor3 = Color3.fromRGB(230,230,230)
+        btn.Font = Enum.Font.GothamSemibold
+        btn.TextSize = 13
+        btn.Text = name .. " (Lv. " .. level .. ")"
+        btn.Parent = Scroll
+        ApplyRounded(btn, 6)
+        ApplyStroke(btn, 1, Color3.fromRGB(235,235,235))
+        table.insert(allButtons, btn)
+
+        local function updateButton()
+            local primary = FixedMonsterNames.Primary == name
+            local secondary = FixedMonsterNames.Secondary == name
+            if primary then
+                btn.Text = name .. " (Lv. " .. level .. ") ← 1순위"
+                btn.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+            elseif secondary then
+                btn.Text = name .. " (Lv. " .. level .. ") ← 2순위"
+                btn.BackgroundColor3 = Color3.fromRGB(100, 80, 0)
+            else
+                btn.Text = name .. " (Lv. " .. level .. ")"
+                btn.BackgroundColor3 = Color3.fromRGB(24,24,24)
+            end
+        end
+        updateButton()
+
+        btn.MouseButton1Click:Connect(function()
+            local primary = FixedMonsterNames.Primary
+            local secondary = FixedMonsterNames.Secondary
+
+            if primary == name then
+                FixedMonsterNames.Primary = nil
+                rememberedPos = nil
+            elseif secondary == name then
+                FixedMonsterNames.Secondary = nil
+            elseif not primary then
+                FixedMonsterNames.Primary = name
+                if MONSTER_POSITIONS[name] then
+                    rememberedPos = MONSTER_POSITIONS[name]
+                end
+            elseif not secondary then
+                FixedMonsterNames.Secondary = name
+            end
+
+            GUIObjects.NameLabel.Text = "1순위: " .. (FixedMonsterNames.Primary or "없음")
+            GUIObjects.SecondaryLabel.Text = "2순위: " .. (FixedMonsterNames.Secondary or "없음")
+
+            -- 모든 버튼 텍스트 갱신
+            for _, b in ipairs(allButtons) do
+                local monsterName = b.Text:match("^(.-)%s*(%(Lv|←)")
+                if monsterName then
+                    monsterName = monsterName:match("^(.+)%s*$") or monsterName
+                    if FixedMonsterNames.Primary == monsterName then
+                        b.Text = monsterName .. " (Lv. ??) ← 1순위"
+                        b.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+                    elseif FixedMonsterNames.Secondary == monsterName then
+                        b.Text = monsterName .. " (Lv. ??) ← 2순위"
+                        b.BackgroundColor3 = Color3.fromRGB(100, 80, 0)
+                    else
+                        b.Text = monsterName .. " (Lv. ??)"
+                        b.BackgroundColor3 = Color3.fromRGB(24,24,24)
+                    end
+                end
+            end
+            updateButton()
+        end)
+    end
+
+    if #mobDataList == 0 then
+        local lbl = Instance.new("TextLabel")
+        lbl.Size = UDim2.new(1, -40, 0, 48)
+        lbl.Position = UDim2.new(0, 20, 0, 6)
+        lbl.BackgroundTransparency = 1
+        lbl.TextColor3 = Color3.fromRGB(220, 180, 180)
+        lbl.Text = "현재 레벨로 갈 수 있는 몹이 없습니다.\n(몹 로딩 대기 중이거나 레벨 부족)"
+        lbl.Font = Enum.Font.Gotham
+        lbl.TextSize = 14
+        lbl.TextWrapped = true
+        lbl.Parent = Scroll
+    
+            for i, data in ipairs(mobList) do
+                local btn = Instance.new("TextButton")
+                btn.Size = UDim2.new(1, -44, 0, 42)
+                btn.BackgroundColor3 = Color3.fromRGB(24,24,24)
+                btn.TextColor3 = Color3.fromRGB(230,230,230)
+                btn.Font = Enum.Font.GothamSemibold
+                btn.TextSize = 13
+                btn.Parent = Scroll
+                ApplyRounded(btn, 6)
+                ApplyStroke(btn, 1, Color3.fromRGB(235,235,235))
+                table.insert(allButtons, btn)
+                local function updateButton()
+                    local primary = FixedMonsterNames.Primary == data.name
+                    local secondary = FixedMonsterNames.Secondary == data.name
+                    if primary then
+                        btn.Text = data.name .. " (Lv. " .. data.level .. ") ← 1순위"
+                        btn.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+                    elseif secondary then
+                        btn.Text = data.name .. " (Lv. " .. data.level .. ") ← 2순위"
+                        btn.BackgroundColor3 = Color3.fromRGB(100, 80, 0)
+                    else
+                        btn.Text = data.name .. " (Lv. " .. data.level .. ")"
+                        btn.BackgroundColor3 = Color3.fromRGB(24,24,24)
+                    end
+                end
+                updateButton()
+                btn.MouseButton1Click:Connect(function()
+                    local primary = FixedMonsterNames.Primary
+                    local secondary = FixedMonsterNames.Secondary
+                    if primary == data.name then
+                        FixedMonsterNames.Primary = nil
+                        rememberedPos = nil
+                        arrivedAtMemoryPos = false
+                    elseif secondary == data.name then
+                        FixedMonsterNames.Secondary = nil
+                    elseif not primary then
+                        FixedMonsterNames.Primary = data.name
+                        if MONSTER_POSITIONS[data.name] then
+                            rememberedPos = MONSTER_POSITIONS[data.name]
+                            arrivedAtMemoryPos = false
+                        end
+                    elseif not secondary then
+                        FixedMonsterNames.Secondary = data.name
+                    else
+                        warn(" ")
+                        return
+                    end
+                    GUIObjects.NameLabel.Text = "1순위: " .. (FixedMonsterNames.Primary or "없음")
+                    GUIObjects.SecondaryLabel.Text = "2순위: " .. (FixedMonsterNames.Secondary or "없음")
+                    for _, b in ipairs(allButtons) do
+                        if b and b.Parent then
+                            local monsterName = b.Text:match("^(.-) %(")
+                            if monsterName then
+                                local level = b.Text:match("%(Lv%. (%d+)%)") or "??"
+                                if FixedMonsterNames.Primary == monsterName then
+                                    b.Text = monsterName .. " (Lv. " .. level .. ") ← 1순위"
+                                    b.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+                                elseif FixedMonsterNames.Secondary == monsterName then
+                                    b.Text = monsterName .. " (Lv. " .. level .. ") ← 2순위"
+                                    b.BackgroundColor3 = Color3.fromRGB(100, 80, 0)
+                                else
+                                    b.Text = monsterName .. " (Lv. " .. level .. ")"
+                                    b.BackgroundColor3 = Color3.fromRGB(24,24,24)
+                                end
+                            end
+                        end
+                    end
+                    updateButton()
+                end)
+            end
+        end
+        GUIObjects.NameLabel.Text = "1순위: " .. (FixedMonsterNames.Primary or "없음")
+        GUIObjects.SecondaryLabel.Text = "2순위: " .. (FixedMonsterNames.Secondary or "없음")
+        task.defer(updateCanvas)
+    end)
+        spawnBtn.MouseButton1Click:Connect(function()
+        if GUIObjects.ListFrame then GUIObjects.ListFrame:Destroy() end
+        local Scroll = Instance.new("ScrollingFrame")
+        Scroll.Size = UDim2.new(1, -36, 0, LIST_HEIGHT)
+        Scroll.Position = UDim2.new(0, 18, 0, 88)
+        Scroll.BackgroundColor3 = Color3.fromRGB(18,18,18)
+        Scroll.BorderSizePixel = 0
+        Scroll.CanvasSize = UDim2.new(0,0,0,0)
+        Scroll.ScrollBarThickness = 8
+        Scroll.Parent = MainContainer
+        ApplyRounded(Scroll, 8)
+        ApplyStroke(Scroll, 1, Color3.fromRGB(235,235,235))
+        GUIObjects.ListFrame = Scroll
+        local layout = Instance.new("UIListLayout")
+        layout.Parent = Scroll
+        layout.SortOrder = Enum.SortOrder.LayoutOrder
+        layout.Padding = UDim.new(0, 6)
+        layout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+        local function updateCanvas()
+            Scroll.CanvasSize = UDim2.new(0,0,0, layout.AbsoluteContentSize.Y + 600)
+        end
+        layout:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(updateCanvas)
+        local spawnList = {}
+        local spawnFolder = workspace:FindFirstChild("SpawnPoint") or workspace:FindFirstChild("SpawnPoints")
+        if spawnFolder then
+            local portal = workspace:FindFirstChild("Map")
+                and workspace.Map:FindFirstChild("초원")
+            if portal then
+                table.insert(spawnList, {name = "1차원 가는곳", pos = Vector3.new(-1233, 42, -289)})
+            end
+            if spawnFolder:FindFirstChild("루나마을 스폰") then
+                table.insert(spawnList, {name = "루나마을 스폰", pos = Vector3.new(-44.03, 130.3, 1996.13)})
+            end
+            if spawnFolder:FindFirstChild("메이플 스폰") then
+                table.insert(spawnList, {name = "메이플 스폰", pos = Vector3.new(-1440.09, 193.31, 3793.4)})
+            end
+            if spawnFolder:FindFirstChild("겨울스폰") then
+                table.insert(spawnList, {name = "겨울스폰", pos = Vector3.new(338.06, 186.77, 3753.47)})
+            end
+            if spawnFolder:FindFirstChild("겨울성 스폰") then
+                table.insert(spawnList, {name = "겨울성 스폰", pos = Vector3.new(2183.86, 373.16, 4558.1)})
+            end
+            if spawnFolder:FindFirstChild("루나성") then
+                table.insert(spawnList, {name = "루나성", pos = Vector3.new(-115.57, 4.44, 648.76)})
+            end
+            if spawnFolder:FindFirstChild("미궁") then
+                table.insert(spawnList, {name = "미궁", pos = Vector3.new(-1647.79, 0.22, 2690.14)})
+            end
+            if spawnFolder:FindFirstChild("파라다이스") then
+                table.insert(spawnList, {name = "파라다이스", pos = Vector3.new(1021.41, 78.89, 2947.4)})
+            end
+            if spawnFolder:FindFirstChild("프로스티아") then
+                table.insert(spawnList, {name = "프로스티아", pos = Vector3.new(-242.87, 18.67, 3275.55)})
+            end
+            if spawnFolder:FindFirstChild("프로스티아2") then
+                table.insert(spawnList, {name = "프로스티아2", pos = Vector3.new(9.93, 32.69, 4849.27)})
+            end
+            if spawnFolder:FindFirstChild("아틀란티스 입구") then
+                table.insert(spawnList, {name = "아틀란티스 입구", pos = Vector3.new(1455.9371337890625, 217.05123901367188, -279.80255126953125)})
+            end
+            local portal = workspace:FindFirstChild("Map")
+                and workspace.Map:FindFirstChild("Teleport")
+                and workspace.Map.Teleport:FindFirstChild("다지엇음")
+            if portal then
+                table.insert(spawnList, {name = "2차원 포털", pos = Vector3.new(-37.03, 174.36, -2232.93)})
+            end
+            
+        end
+        if #spawnList == 0 then
+            local lbl = Instance.new("TextLabel")
+            lbl.Size = UDim2.new(1, -40, 0, 28)
+            lbl.Position = UDim2.new(0, 20, 0, 6)
+            lbl.BackgroundTransparency = 1
+            lbl.Text = "스폰 위치가 없습니다."
+            lbl.Font = Enum.Font.Gotham
+            lbl.TextSize = 14
+            lbl.TextColor3 = Color3.fromRGB(210,210,210)
+            lbl.Parent = Scroll
+        else
+            for i, data in ipairs(spawnList) do
+                local btn = Instance.new("TextButton")
+                btn.Size = UDim2.new(1, -44, 0, 36)
+                btn.BackgroundColor3 = Color3.fromRGB(24,24,24)
+                btn.TextColor3 = Color3.fromRGB(230,230,230)
+                btn.Text = data.name
+                btn.Font = Enum.Font.Gotham
+                btn.TextSize = 14
+                btn.Parent = Scroll
+                btn.LayoutOrder = i
+                ApplyRounded(btn, 6)
+                ApplyStroke(btn, 1, Color3.fromRGB(235,235,235))
+                btn.MouseButton1Click:Connect(function()
+                    local hrp = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                    if hrp then
+                        pcall(function()
+                            hrp.CFrame = CFrame.new(data.pos + Vector3.new(0, 3, 0))
+                        end)
+                        print("스폰 TP: " .. data.name .. " → " .. tostring(data.pos))
+                    end
+                    if GUIObjects.ListFrame then
+                        GUIObjects.ListFrame:Destroy()
+                        GUIObjects.ListFrame = nil
+                    end
+                    -- 난독화 내성 최고로 강화된 2차원 포털 처리
+                    if data.name == "2차원 포털" then
+                        task.spawn(function()
+                            task.wait(0.6) -- 안정적인 대기
+                            pcall(function()
+                                local map = workspace:FindFirstChild("Map")
+                                if not map then return end
+                                local teleport = map:FindFirstChild("Teleport")
+                                if not teleport then return end
+                                local portal = teleport:FindFirstChild("World2")
+                                if not portal then return end
+                                -- ProximityPrompt 강제 활성화 및 강화
+                                local prompt = portal:FindFirstChild("ProximityPrompt")
+                                if prompt then
+                                    prompt.HoldDuration = 0
+                                    prompt.Enabled = true
+                                    prompt.MaxActivationDistance = 50
+                                    prompt.RequiresLineOfSight = false -- 시야 막혀도 작동
+                                end
+                                -- 포털 시각 효과 강제 ON
+                                portal.Transparency = 0
+                                local attachment = portal:FindFirstChild("Attachment")
+                                if attachment then
+                                    for _, emitter in pairs(attachment:GetChildren()) do
+                                        if emitter:IsA("ParticleEmitter") then
+                                            emitter.Enabled = true
+                                        end
+                                    end
+                                end
+                                -- 지속 유지 루프 (난독화에 가장 강한 구조)
+                                while task.wait(0.3) do
+                                    if not portal or not portal.Parent then break end
+                                    portal.Transparency = 0
+                                    if prompt then
+                                        prompt.Enabled = true
+                                        prompt.HoldDuration = 0
+                                    end
+                                    if attachment then
+                                        for _, emitter in pairs(attachment:GetChildren()) do
+                                            if emitter:IsA("ParticleEmitter") then
+                                                emitter.Enabled = true
+                                            end
+                                        end
+                                    end
+                                end
+                            end)
+                        end)
+                    end
+                end)
+            end
+        end
+        task.defer(updateCanvas)
+    end)
+    local function CreateSlider(parent, name, min, max, default, callback, posY)
+        local label = Instance.new("TextLabel")
+        label.Size = UDim2.new(1, -40, 0, 18)
+        label.Position = UDim2.new(0, 20, 0, posY)
+        label.BackgroundTransparency = 1
+        label.TextColor3 = Color3.fromRGB(220,220,220)
+        label.Font = Enum.Font.Gotham
+        label.TextSize = 13
+        label.Text = name..": "..default
+        label.Parent = parent
+        local sliderFrame = Instance.new("Frame")
+        sliderFrame.Size = UDim2.new(1, -40, 0, 16)
+        sliderFrame.Position = UDim2.new(0, 20, 0, posY+22)
+        sliderFrame.BackgroundColor3 = Color3.fromRGB(24,24,24)
+        sliderFrame.Parent = parent
+        ApplyRounded(sliderFrame, 8)
+        ApplyStroke(sliderFrame, 1, Color3.fromRGB(235,235,235))
+        local fill = Instance.new("Frame")
+        fill.Size = UDim2.new((default-min)/(max-min),0,1,0)
+        fill.BackgroundColor3 = Color3.fromRGB(0,160,100)
+        fill.Parent = sliderFrame
+        ApplyRounded(fill, 8)
+        local dragging = false
+        sliderFrame.InputBegan:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+                dragging = true
+                UIInteraction = true
+            end
+        end)
+        sliderFrame.InputEnded:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+                dragging = false
+                task.delay(0, function() UIInteraction = false end)
+            end
+        end)
+        UserInputService.InputChanged:Connect(function(input)
+            if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+                local x = math.clamp(input.Position.X - sliderFrame.AbsolutePosition.X, 0, sliderFrame.AbsoluteSize.X)
+                fill.Size = UDim2.new(x/sliderFrame.AbsoluteSize.X,0,1,0)
+                local value = min + (x/sliderFrame.AbsoluteSize.X)*(max-min)
+                label.Text = name..": "..math.floor(value*100)/100
+                callback(value)
+            end
+        end)
+    end
+    CreateSlider(MainContainer, "오프셋 거리 (stud)", 0, 80, TP_DISTANCE, function(v) TP_DISTANCE = v end, 100)
+    CreateSlider(MainContainer, "Y 오프셋 (stud)", -50, 50, Y_OFFSET, function(v) Y_OFFSET = math.floor(v) end, 220)
+    CreateSlider(MainContainer, "속도 (stud/s)", SPEED_MIN, SPEED_MAX, MOVE_SPEED, function(v) MOVE_SPEED = math.clamp(math.floor(v), SPEED_MIN, SPEED_MAX) end, 160)
+    local modeBtn = Instance.new("TextButton")
+    modeBtn.Size = UDim2.new(0.9, 0, 0, 36)
+    modeBtn.Position = UDim2.new(0.05, 0, 0, 270)
+    modeBtn.BackgroundColor3 = Color3.fromRGB(26,26,26)
+    modeBtn.Text = "모드: "..MoveMode
+    modeBtn.Font = Enum.Font.GothamSemibold
+    modeBtn.TextSize = 14
+    modeBtn.TextColor3 = Color3.fromRGB(235,235,235)
+    modeBtn.Parent = MainContainer
+    ApplyRounded(modeBtn, 8)
+    ApplyStroke(modeBtn, 1, Color3.fromRGB(235,235,235))
+    modeBtn.MouseButton1Click:Connect(function()
+        MoveMode = (MoveMode == "Smooth") and "Instant" or "Smooth"
+        modeBtn.Text = "모드: "..MoveMode
+    end)
+    -- 방향 탭 UI
+    local dirButtons = {}
+    local btnInfos = {
+        {text = "뒤 (Back)", dir = "Back", pos = UDim2.new(0.06,0,0,8)},
+        {text = "앞 (Front)", dir = "Front", pos = UDim2.new(0.56,0,0,8)},
+        {text = "왼쪽 (Left)", dir = "Left", pos = UDim2.new(0.06,0,0,92)},
+        {text = "오른쪽 (Right)", dir = "Right", pos = UDim2.new(0.56,0,0,92)},
+        {text = "위 (Up)", dir = "Up", pos = UDim2.new(0.06,0,0,176)},
+        {text = "아래 (Down)", dir = "Down", pos = UDim2.new(0.56,0,0,176)},
+    }
+    for _, info in ipairs(btnInfos) do
+        local b = Instance.new("TextButton")
+        b.Size = UDim2.new(0.42, 0, 0, 64)
+        b.Position = info.pos
+        b.Text = info.text
+        b.Name = info.dir
+        b.Font = Enum.Font.GothamSemibold
+        b.TextSize = 14
+        b.TextColor3 = Color3.fromRGB(235,235,235)
+        b.BackgroundColor3 = (TP_DIRECTION == info.dir) and Color3.fromRGB(16,90,16) or Color3.fromRGB(26,26,26)
+        b.Parent = DirContainer
+        ApplyRounded(b, 10)
+        ApplyStroke(b, 1, Color3.fromRGB(240,240,240))
+        b.MouseButton1Click:Connect(function()
+            TP_DIRECTION = info.dir
+            for _, cb in ipairs(dirButtons) do
+                cb.BackgroundColor3 = (cb.Name == TP_DIRECTION) and Color3.fromRGB(16,90,16) or Color3.fromRGB(26,26,26)
+            end
+        end)
+        table.insert(dirButtons, b)
+    end
+    -- 정보 탭
+    local function addInfo(txt, container, y)
+        local l = Instance.new("TextLabel")
+        l.Size = UDim2.new(1, -28, 0, 44)
+        l.Position = UDim2.new(0, 14, 0, y or 12)
+        l.BackgroundTransparency = 1
+        l.TextColor3 = Color3.fromRGB(240,240,240)
+        l.TextWrapped = true
+        l.Font = Enum.Font.GothamSemibold
+        l.TextSize = 14
+        l.Text = txt
+        l.Parent = container
+    end
+    addInfo("개발자 디스코드: park75816150(부키 덕질중)", InfoContainer)
+    addInfo("몬스터 TP가 실패할 경우, 대상 근처로 이동한 뒤 재시도하세요.", InfoContainer, 62)
+    addInfo("피드백이나 버그제보는 개발자 한테 dm을 보내주세요", InfoContainer, 112)
+    addInfo("이 스크립트는 개발자 혼자 개발한 무료 스크립트입니다. 무단 판매를 금지합니다.", InfoContainer, 152)
+    -- ClickContainer UI: 오토클릭 + 스킬 통합 (요청대로 스킬을 여기로 이동함)
+    do
+        -- 오토클릭 버튼
+        local autoClickBtn = Instance.new("TextButton")
+        autoClickBtn.Size = UDim2.new(0.9, 0, 0, 44)
+        autoClickBtn.Position = UDim2.new(0.05, 0, 0, 8)
+        autoClickBtn.BackgroundColor3 = Color3.fromRGB(26,26,26)
+        autoClickBtn.Text = "오토클릭: OFF(B키토글 ㅆㄱㄴ)"
+        autoClickBtn.Font = Enum.Font.GothamSemibold
+        autoClickBtn.TextSize = 15
+        autoClickBtn.TextColor3 = Color3.fromRGB(235,235,235)
+        autoClickBtn.Parent = ClickContainer
+        ApplyRounded(autoClickBtn, 10)
+        ApplyStroke(autoClickBtn, 1, Color3.fromRGB(235,235,235))
+        GUIObjects.AutoClickBtn = autoClickBtn
+        -- 여기서 스킬 버튼 행을 생성 (메인에서 제거됨)
+        local skillRow = Instance.new("Frame")
+        skillRow.Size = UDim2.new(0.9, 0, 0, 120)
+        skillRow.Position = UDim2.new(0.05, 0, 0, 120)
+        skillRow.BackgroundTransparency = 1
+        skillRow.Parent = ClickContainer
+        local layout = Instance.new("UIListLayout")
+        layout.FillDirection = Enum.FillDirection.Horizontal
+        layout.SortOrder = Enum.SortOrder.LayoutOrder
+        layout.Padding = UDim.new(0, 12)
+        layout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+        layout.VerticalAlignment = Enum.VerticalAlignment.Center
+        layout.Parent = skillRow
+        local function createSkillButton(name)
+            local b = Instance.new("TextButton")
+            b.Name = name .. "_Btn"
+            b.Size = UDim2.new(0, 140, 0, 56)
+            b.BackgroundColor3 = Color3.fromRGB(40,40,40)
+            b.TextColor3 = Color3.fromRGB(220,220,220)
+            b.Font = Enum.Font.GothamSemibold
+            b.TextSize = 18
+            b.Text = name
+            ApplyRounded(b, 8)
+            ApplyStroke(b, 1, Color3.fromRGB(235,235,235))
+            b.Parent = skillRow
+            local cd = Instance.new("TextLabel")
+            cd.Size = UDim2.new(1, 0, 0, 16)
+            cd.Position = UDim2.new(0, 0, 1, -18)
+            cd.BackgroundTransparency = 1
+            cd.Font = Enum.Font.Gotham
+            cd.TextSize = 12
+            cd.TextColor3 = Color3.fromRGB(200,200,200)
+            cd.Text = "N/A"
+            cd.Parent = b
+            return b, cd
+        end
+        local eBtn, eCd = createSkillButton("E")
+        local rBtn, rCd = createSkillButton("R")
+        local tBtn, tCd = createSkillButton("T")
+        GUIObjects.SkillButtons = {E=eBtn, R=rBtn, T=tBtn}
+        GUIObjects.SkillCooldownLabels = {E=eCd, R=rCd, T=tCd}
+        -- 토글 연결
+        _G.AutoSkill = _G.AutoSkill or {}
+        _G.AutoSkill.E = _G.AutoSkill.E or false
+        _G.AutoSkill.R = _G.AutoSkill.R or false
+        _G.AutoSkill.T = _G.AutoSkill.T or false
+        eBtn.MouseButton1Click:Connect(function() _G.AutoSkill.E = not _G.AutoSkill.E end)
+        rBtn.MouseButton1Click:Connect(function() _G.AutoSkill.R = not _G.AutoSkill.R end)
+        tBtn.MouseButton1Click:Connect(function() _G.AutoSkill.T = not _G.AutoSkill.T end)
+                -- ===== 항상 자동 사용 토글 버튼 추가 =====
+                -- ===== 항상 자동 사용 토글 버튼 (텍스트 항상 하얀색 + 확실히 보이게) =====
+        local AlwaysAutoBtn = Instance.new("TextButton")
+        AlwaysAutoBtn.Size = UDim2.new(0.9, 0, 0, 50)
+        AlwaysAutoBtn.Position = UDim2.new(0.05, 0, 0, 220) -- 충분히 아래로 내려서 절대 안 가려짐
+        AlwaysAutoBtn.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
+        AlwaysAutoBtn.Text = "스킬 사용: OFF"
+        AlwaysAutoBtn.TextColor3 = Color3.new(1, 1, 1) -- 항상 하얀색
+        AlwaysAutoBtn.Font = Enum.Font.GothamBold
+        AlwaysAutoBtn.TextSize = 16
+        AlwaysAutoBtn.Parent = ClickContainer
+        AlwaysAutoBtn.ZIndex = 20 -- 위에 뜨게
+        ApplyRounded(AlwaysAutoBtn, 12)
+        ApplyStroke(AlwaysAutoBtn, 2, Color3.fromRGB(100, 255, 100))
+        
+        _G.AlwaysAutoSkill = _G.AlwaysAutoSkill or false
+        AlwaysAutoBtn.MouseButton1Click:Connect(function()
+            _G.AlwaysAutoSkill = not _G.AlwaysAutoSkill
+            AlwaysAutoBtn.Text = "스킬 사용: " .. (_G.AlwaysAutoSkill and "ON" or "OFF")
+            -- 배경만 초록/검정 변경, 텍스트는 무조건 흰색 유지
+            AlwaysAutoBtn.BackgroundColor3 = _G.AlwaysAutoSkill and Color3.fromRGB(0, 120, 0) or Color3.fromRGB(26, 26, 26)
+        end)
+        -- 쿨다운 탐색 함수
+        local function searchForCooldownInGuis(skillName)
+            local lower = skillName:lower()
+            local function checkContainer(root)
+                for _, v in pairs(root:GetDescendants()) do
+                    if v:IsA("NumberValue") or v:IsA("IntValue") then
+                        local n = v.Name:lower()
+                        local p = tostring(v.Parent and v.Parent.Name or ""):lower()
+                        if n:find(lower) or n:find("cd") or n:find("cool") or p:find(lower) or p:find("cd") then
+                            return v.Value
+                        end
+                    end
+                end
+                return nil
+            end
+            if LocalPlayer and LocalPlayer:FindFirstChild("PlayerGui") then
+                local found = checkContainer(LocalPlayer.PlayerGui)
+                if found then return found end
+            end
+            local foundCore = checkContainer(game.CoreGui)
+            if foundCore then return foundCore end
+            return nil
+        end
+        local function findGuiRoot()
+            if LocalPlayer and LocalPlayer:FindFirstChild("PlayerGui") then
+                for _, v in pairs(LocalPlayer.PlayerGui:GetChildren()) do
+                    if v:FindFirstChild("E") or v:FindFirstChild("R") or v:FindFirstChild("T") or v:FindFirstChildWhichIsA("Frame") then
+                        return v
+                    end
+                end
+            end
+            for _, v in pairs(game.CoreGui:GetChildren()) do
+                if v:FindFirstChild("E") or v:FindFirstChild("R") or v:FindFirstChild("T") or v:FindFirstChildWhichIsA("Frame") then
+                    return v
+                end
+            end
+            return nil
+        end
+        local guiRoot = findGuiRoot()
+        local function getCooldownFromGuiName(name)
+            if guiRoot then
+                local child = guiRoot:FindFirstChild(name)
+                if child and child:FindFirstChild("Frame") then
+                    local vv = child.Frame:FindFirstChild("Value")
+                    if vv and (vv:IsA("NumberValue") or vv:IsA("IntValue")) then return vv.Value end
+                end
+            end
+            return nil
+        end
+        spawn(function()
+            while ClickContainer and ClickContainer.Parent do
+                local ev = getCooldownFromGuiName("E") or searchForCooldownInGuis("E")
+                if ev == nil then eCd.Text = "N/A" elseif ev > 0 then eCd.Text = tostring(math.floor(ev*10)/10) .. "s" else eCd.Text = "Ready" end
+                if _G.AutoSkill.E then eBtn.BackgroundColor3 = Color3.fromRGB(30,130,30); eBtn.Text = "E (ON)" else eBtn.BackgroundColor3 = Color3.fromRGB(40,40,40); eBtn.Text = "E" end
+                local rv = getCooldownFromGuiName("R") or searchForCooldownInGuis("R")
+                if rv == nil then rCd.Text = "N/A" elseif rv > 0 then rCd.Text = tostring(math.floor(rv*10)/10) .. "s" else rCd.Text = "Ready" end
+                if _G.AutoSkill.R then rBtn.BackgroundColor3 = Color3.fromRGB(30,130,30); rBtn.Text = "R (ON)" else rBtn.BackgroundColor3 = Color3.fromRGB(40,40,40); rBtn.Text = "R" end
+                local tv = getCooldownFromGuiName("T") or searchForCooldownInGuis("T")
+                if tv == nil then tCd.Text = "N/A" elseif tv > 0 then tCd.Text = tostring(math.floor(tv*10)/10) .. "s" else tCd.Text = "Ready" end
+                if _G.AutoSkill.T then tBtn.BackgroundColor3 = Color3.fromRGB(30,130,30); tBtn.Text = "T (ON)" else tBtn.BackgroundColor3 = Color3.fromRGB(40,40,40); tBtn.Text = "T" end
+                task.wait(0.12)
+            end
+        end)
+    end
+    -- 최종 nil-safe 쿨다운 함수 (인라인 + pcall 완벽 적용)
+    local function getSafeCooldown(skillName)
+        local lower = skillName:lower()
+      
+        -- 1. PlayerGui / CoreGui에서 직접 검색 (기존 함수 호출 없이 인라인)
+        local success, cd = pcall(function()
+            local containers = {}
+            if LocalPlayer and LocalPlayer:FindFirstChild("PlayerGui") then
+                table.insert(containers, LocalPlayer.PlayerGui)
+            end
+            table.insert(containers, game.CoreGui)
+          
+            for _, container in ipairs(containers) do
+                -- 방법 1: 스킬 이름 직접 찾기 (E, R, T 버튼)
+                local skillBtn = container:FindFirstChild(skillName)
+                if skillBtn and skillBtn:FindFirstChild("Frame") then
+                    local val = skillBtn.Frame:FindFirstChild("Value")
+                    if val and (val:IsA("NumberValue") or val:IsA("IntValue")) then
+                        return val.Value
+                    end
+                end
+              
+                -- 방법 2: 전체 Descendants 검색 (cd, cool 등 키워드)
+                for _, v in pairs(container:GetDescendants()) do
+                    if v:IsA("NumberValue") or v:IsA("IntValue") then
+                        local n = v.Name:lower()
+                        local pName = v.Parent and v.Parent.Name:lower() or ""
+                        if n:find(lower) or n:find("cd") or n:find("cool") or pName:find(lower) or pName:find("cd") then
+                            return v.Value
+                        end
+                    end
+                end
+            end
+            return nil
+        end)
+      
+        return success and cd or nil
+    end
+   
+    -- 오토 스킬 루프 (난독화 대응, 2초 간격, 쿨타임 확인 제거)
+    local ReplicatedStorage = game:GetService("ReplicatedStorage")
+    local Players = game:GetService("Players")
+    local LocalPlayer = Players.LocalPlayer
+    -- 동적으로 스킬 리모트 찾기
+    local function findSkillRemote()
+        local remoteFolder = ReplicatedStorage:FindFirstChild("Remote")
+        if not remoteFolder then
+            for _, obj in ipairs(ReplicatedStorage:GetChildren()) do
+                if obj:IsA("Folder") or obj:IsA("RemoteEvent") then
+                    local skillRemote = obj:FindFirstChild("Skill") or obj:FindFirstChildWhichIsA("RemoteEvent")
+                    if skillRemote then
+                        return skillRemote
+                    end
+                end
+            end
+        else
+            return remoteFolder:FindFirstChild("Skill") or remoteFolder:FindFirstChildWhichIsA("RemoteEvent")
+        end
+        return nil
+    end
+    local SkillRemote = findSkillRemote()
+    
+    local function tryFireSkill(name)
+        if not SkillRemote then
+            -- 리모트 없으면 재탐색
+            SkillRemote = findSkillRemote()
+            if not SkillRemote then
+                warn("스킬 리모트 찾기 실패")
+                return
+            end
+        end
+        pcall(function()
+            SkillRemote:FireServer(name) -- 스킬 이름 직접 전달
+        end)
+    end
+    -- 각 스킬(E, R, T)에 대해 2초 간격 실행
+    for _, name in ipairs({"E", "R", "T"}) do
+        task.spawn(function()
+            local debounce = false
+            while task.wait(1.1) do -- 2초마다 실행
+                if _G.AutoSkill[name] and not debounce and LocalPlayer.Character then
+                    debounce = true
+                    -- 항상 자동 사용 ON이면 타겟 상관없이 발동
+                    if _G.AlwaysAutoSkill then
+                        tryFireSkill(name)
+                    else
+                        -- 타겟이 살아있을 때만 발동
+                        local targetValid = CurrentTarget and CurrentTarget.Parent
+                        local hum = targetValid and CurrentTarget:FindFirstChild("Humanoid")
+                        local targetAlive = hum and hum.Health > 0
+                        if targetValid and targetAlive then
+                            tryFireSkill(name)
+                        end
+                    end
+                    task.wait(0.1) -- 짧은 대기 후 debounce 해제
+                    debounce = false
+                end
+            end
+        end)
+    end
+    -- 쿨타임 GUI 업데이트 (난독화 대응, 단순화)
+    local function updateSkillCooldownDisplay()
+        local guiRoot = LocalPlayer:FindFirstChild("PlayerGui") or game:GetService("CoreGui")
+        for _, name in ipairs({"E", "R", "T"}) do
+            local cdLabel = GUIObjects.SkillCooldownLabels[name]
+            if not cdLabel then continue end
+            -- 동적으로 쿨타임 값 찾기
+            local cdValue = nil
+            pcall(function()
+                for _, v in pairs(guiRoot:GetDescendants()) do
+                    if (v:IsA("NumberValue") or v:IsA("IntValue")) and (v.Name:lower():find(name:lower()) or v.Parent.Name:lower():find(name:lower())) then
+                        cdValue = v.Value
+                        break
+                    end
+                end
+            end)
+            -- 쿨타임 표시
+            if cdValue == nil then
+                cdLabel.Text = "N/A"
+            elseif cdValue > 0 then
+                cdLabel.Text = string.format("%.1fs", cdValue)
+            else
+                cdLabel.Text = "Ready"
+            end
+            -- 버튼 상태 업데이트
+            local btn = GUIObjects.SkillButtons[name]
+            if btn then
+                btn.BackgroundColor3 = _G.AutoSkill[name] and Color3.fromRGB(30, 130, 30) or Color3.fromRGB(40, 40, 40)
+                btn.Text = name .. (_G.AutoSkill[name] and " (ON)" or "")
+            end
+        end
+    end
+   
+    -- GUI 쿨타임 표시 루프
+    task.spawn(function()
+        while GUIObjects.ClickContainer and GUIObjects.ClickContainer.Parent do
+            pcall(updateSkillCooldownDisplay)
+            task.wait(0.12)
+        end
+    end)
+    -- 탭 제어
+    local function ResetTabColors()
+        if TabMain then TabMain.BackgroundColor3 = Color3.fromRGB(26,26,26); TabMain.TextColor3 = Color3.fromRGB(230,230,230) end
+        if TabDir then TabDir.BackgroundColor3 = Color3.fromRGB(26,26,26); TabDir.TextColor3 = Color3.fromRGB(230,230,230) end
+        if TabClick then TabClick.BackgroundColor3 = Color3.fromRGB(26,26,26); TabClick.TextColor3 = Color3.fromRGB(230,230,230) end
+        if TabInfo then TabInfo.BackgroundColor3 = Color3.fromRGB(26,26,26); TabInfo.TextColor3 = Color3.fromRGB(230,230,230) end
+    end
+    local function SafeSetVisible(container, visible)
+        if container and container.Parent then container.Visible = visible end
+    end
+    local function ShowMain() ResetTabColors() if TabMain then TabMain.BackgroundColor3 = Color3.fromRGB(36,36,36) end SafeSetVisible(MainContainer, true) SafeSetVisible(DirContainer, false) SafeSetVisible(ClickContainer, false) SafeSetVisible(InfoContainer, false) end
+    local function ShowDir() ResetTabColors() if TabDir then TabDir.BackgroundColor3 = Color3.fromRGB(36,36,36) end SafeSetVisible(MainContainer, false) SafeSetVisible(DirContainer, true) SafeSetVisible(ClickContainer, false) SafeSetVisible(InfoContainer, false) end
+    local function ShowClick() ResetTabColors() if TabClick then TabClick.BackgroundColor3 = Color3.fromRGB(36,36,36) end SafeSetVisible(MainContainer, false) SafeSetVisible(DirContainer, false) SafeSetVisible(ClickContainer, true) SafeSetVisible(InfoContainer, false) end
+    local function ShowInfo() ResetTabColors() if TabInfo then TabInfo.BackgroundColor3 = Color3.fromRGB(36,36,36) end SafeSetVisible(MainContainer, false) SafeSetVisible(DirContainer, false) SafeSetVisible(ClickContainer, false) SafeSetVisible(InfoContainer, true) end
+    TabMain.MouseButton1Click:Connect(ShowMain)
+    TabDir.MouseButton1Click:Connect(ShowDir)
+    TabClick.MouseButton1Click:Connect(ShowClick)
+    TabInfo.MouseButton1Click:Connect(ShowInfo)
+    ShowMain()
+    GUIObjects.MainContainer = MainContainer
+    GUIObjects.ClickContainer = ClickContainer
+    GUIObjects.DirContainer = DirContainer
+    GUIObjects.InfoContainer = InfoContainer
+  
+    local TweenService = game:GetService("TweenService")
+    local ReplicatedStorage = game:GetService("ReplicatedStorage")
+    local CoreGui = game:GetService("CoreGui")
+    local MacroEvent = ReplicatedStorage:WaitForChild("Remote"):WaitForChild("Macro")
+    -- 오토 탭에 넣을 토글 버튼 (ClickContainer 안에 붙이세요!)
+    local MacroSection = Instance.new("Frame")
+    MacroSection.Size = UDim2.new(0.9, 0, 0, 100)
+    MacroSection.Position = UDim2.new(0.05, 0, 0, 340) -- 스킬 아래로 위치 조정
+    MacroSection.BackgroundTransparency = 1
+    MacroSection.Parent = ClickContainer
+    local InfoLabel = Instance.new("TextLabel", MacroSection)
+    InfoLabel.Size = UDim2.new(1, 0, 0, 28)
+    InfoLabel.Position = UDim2.new(0, 0, 0, 8)
+    InfoLabel.BackgroundTransparency = 1
+    InfoLabel.Text = "메크로 방지 우회 : 작동중"
+    InfoLabel.TextColor3 = Color3.fromRGB(180, 255, 180)
+    InfoLabel.Font = Enum.Font.Gotham
+    InfoLabel.TextSize = 40
+end
+
+
+-- Create GUI
+CreateGUI()
+local function UpdateTargetList()
+    TargetList = {}
+    local folder = Workspace:FindFirstChild(MOBS_FOLDER_NAME)
+    if not folder then return end
+    
+    local primaries = {}
+    local secondaries = {}
+    local others = {}
+
+    -- 1. 일단 모든 몹을 분류해서 담기
+    for _, obj in ipairs(folder:GetChildren()) do
+        if not obj:IsA("Model") then continue end
+        local hum = obj:FindFirstChild("Humanoid")
+        if not hum or hum.Health <= 0 then continue end -- 죽은 몹 제외
+
+        if FixedMonsterNames.Primary and obj.Name == FixedMonsterNames.Primary then
+            table.insert(primaries, obj)
+        elseif FixedMonsterNames.Secondary and obj.Name == FixedMonsterNames.Secondary then
+            table.insert(secondaries, obj)
+        elseif not FixedMonsterNames.Primary and not FixedMonsterNames.Secondary then
+            -- 1, 2순위 둘 다 설정 안 했을 때만 일반 몹 추가
+            table.insert(others, obj)
+        end
+    end
+
+    -- 2. 우선순위에 따라 TargetList 교체 (이전에는 섞여 들어갔음)
+    if #primaries > 0 then
+        TargetList = primaries -- 1순위가 있으면 1순위만 타겟!
+    elseif #secondaries > 0 then
+        TargetList = secondaries -- 1순위 없고 2순위만 있으면 2순위 타겟!
+    else
+        TargetList = others
+    end
+end
+
+local function SelectBestTarget()
+    if #TargetList == 0 then
+        CurrentTarget = nil
+        return
+    end
+
+    -- ┌───────────────────────────────────────────────┐
+    -- │ 가장 가까운 몹 찾는 로직 → 완전히 제거       │
+    -- └───────────────────────────────────────────────┘
+    -- local myHrp = LocalPlayer.Character
+    --     and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+    -- if not myHrp then
+    --     CurrentTarget = TargetList[1]
+    --     return
+    -- end
+    -- local bestMob = nil
+    -- local bestDist = math.huge
+    -- for _, mob in ipairs(TargetList) do
+    --     local mobHrp = mob:FindFirstChild("HumanoidRootPart")
+    --                 or mob.PrimaryPart
+    --     if not mobHrp then continue end
+    --     local dist = (myHrp.Position - mobHrp.Position).Magnitude
+    --     if dist < bestDist then
+    --         bestDist = dist
+    --         bestMob = mob
+    --     end
+    -- end
+
+    -- ┌───────────────────────────────────────────────┐
+    -- │ 대신 : TargetList의 맨 앞에 있는 살아있는 몹 선택 │
+    -- └───────────────────────────────────────────────┘
+    CurrentTarget = nil
+
+    for _, mob in ipairs(TargetList) do
+        local hum = mob:FindFirstChild("Humanoid")
+        if hum and hum.Health > 0 then
+            CurrentTarget = mob
+            break
+        end
+    end
+
+    -- (선택) 디버깅용 출력
+    -- if CurrentTarget then
+    --     print("CurrentTarget →", CurrentTarget.Name)
+    -- else
+    --     print("살아있는 1/2순위 몹 없음")
+    -- end
+end
+
+local function UpdateGUI()
+    if not GUIObjects.MainContainer or not GUIObjects.MainContainer.Visible then return end
+    if CurrentTarget and CurrentTarget.Parent then
+        GUIObjects.NameLabel.Text = "1순위: ".. (FixedMonsterNames.Primary or "없음") .. " → 현재 타겟: " .. CurrentTarget.Name
+        GUIObjects.SecondaryLabel.Text = "2순위: " .. (FixedMonsterNames.Secondary or "없음")
+        local ok, lvl = pcall(function() return require(CurrentTarget:FindFirstChild("Config")).RequireLevel end)
+        GUIObjects.LevelLabel.Text = "최소 레벨: "..(ok and lvl or "-")
+        local hum = CurrentTarget:FindFirstChild("Humanoid")
+        GUIObjects.HealthLabel.Text = hum and ("체력: %.0f / %.0f"):format(hum.Health, hum.MaxHealth) or "체력: - / -"
+    else
+        GUIObjects.NameLabel.Text = "1순위: " .. (FixedMonsterNames.Primary or "없음")
+        GUIObjects.SecondaryLabel.Text = "2순위: " .. (FixedMonsterNames.Secondary or "없음")
+        GUIObjects.LevelLabel.Text = "최소 레벨: -"
+        GUIObjects.HealthLabel.Text = "체력: - / -"
+    end
+end
+
+local primaryWasNil = true
+local isFloating = false -- 10000스터드 고정 중인지
+local arrivedAtMemoryPos = false -- ← 이 변수는 스크립트 최상단이나 전역으로 선언
+-- 전역 변수 (스크립트 상단에 있어야 함)
+local arrivedAtPrimary = false
+local arrivedAtSecondary = false
+local lastPrimaryCount = 0
+local lastSecondaryCount = 0
+local isFloating = false
+-- RenderStepped 전체
+RunService.RenderStepped:Connect(function(dt)
+    if not AutoFarmEnabled or not LocalPlayer.Character or not LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+        return
+    end
+    local hrp = LocalPlayer.Character.HumanoidRootPart
+    local humanoid = LocalPlayer.Character:FindFirstChild("Humanoid")
+    if not humanoid then return end
+    -- 타겟 리스트 및 UI 갱신
+    UpdateTargetList()
+    SelectBestTarget()
+    UpdateGUI()
+    local primaryName = FixedMonsterNames.Primary
+    local secondaryName = FixedMonsterNames.Secondary
+    -- 현재 살아있는 몹 수 세기
+    local currentPrimaryCount = 0
+    local currentSecondaryCount = 0
+    for _, mob in ipairs(TargetList) do
+        local hum = mob:FindFirstChild("Humanoid")
+        if hum and hum.Health > 0 then
+            if primaryName and mob.Name == primaryName then
+                currentPrimaryCount += 1
+            end
+            if secondaryName and mob.Name == secondaryName then
+                currentSecondaryCount += 1
+            end
+        end
+    end
+    -- 전멸 → 재스폰 감지 (이게 핵심!)
+    local shouldGoToPrimarySpawn = false
+    if currentPrimaryCount > 0 and lastPrimaryCount == 0 then
+        arrivedAtPrimary = false
+        shouldGoToPrimarySpawn = true
+        print("[1순위 전멸 → 재스폰] arrivedAtPrimary 초기화 → 좌표 이동")
+    end
+    local shouldGoToSecondarySpawn = false
+    if currentSecondaryCount > 0 and lastSecondaryCount == 0 then
+        arrivedAtSecondary = false
+        shouldGoToSecondarySpawn = true
+        print("[2순위 전멸 → 재스폰] arrivedAtSecondary 초기화 → 좌표 이동")
+    end
+    -- 카운트 저장 (다음 프레임 비교용)
+    lastPrimaryCount = currentPrimaryCount
+    lastSecondaryCount = currentSecondaryCount
+    -- 타겟 결정
+    local targetName = nil
+    local targetPos = nil
+    local shouldGoToSpawn = false
+    -- 1순위 재스폰 시에만 좌표로
+    if primaryName and currentPrimaryCount > 0 and shouldGoToPrimarySpawn and not arrivedAtPrimary then
+        targetName = primaryName
+        targetPos = MONSTER_POSITIONS[primaryName]
+        shouldGoToSpawn = true
+    -- 1순위가 없고 2순위 재스폰 시에만
+    elseif secondaryName and currentSecondaryCount > 0 and shouldGoToSecondarySpawn and not arrivedAtSecondary then
+        targetName = secondaryName
+        targetPos = MONSTER_POSITIONS[secondaryName]
+        shouldGoToSpawn = true
+    end
+    -- 1. 좌표로 이동 (재스폰 시 한 번만)
+    if shouldGoToSpawn and targetPos then
+        local destination = targetPos + Vector3.new(0, 5, 0)
+        local distance = (hrp.Position - destination).Magnitude
+        -- 도착 판정
+        if distance < 20 then
+            if targetName == primaryName then
+                arrivedAtPrimary = true
+                print("[1순위 좌표 도착] → 이제 실제 몹 따라감")
+            else
+                arrivedAtSecondary = true
+                print("[2순위 좌표 도착] → 이제 실제 몹 따라감")
+            end
+        end
+        -- 아직 멀면 이동
+        if distance > 15 then
+            if MoveMode == "Instant" then
+                pcall(function()
+                    hrp.CFrame = CFrame.new(destination)
+                    hrp.Velocity = Vector3.new(0, 0, 0)
+                    hrp.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                end)
+            else
+                local speedThisFrame = MOVE_SPEED * dt
+                if distance > 1 then
+                    local direction = (destination - hrp.Position).Unit
+                    local newPos = hrp.Position + direction * speedThisFrame
+                    pcall(function()
+                        hrp.CFrame = CFrame.new(newPos)
+                        hrp.Velocity = Vector3.new(0, 0, 0)
+                    end)
+                end
+            end
+            isFloating = false
+            return -- 좌표 이동 중에는 몹 따라가기 스킵
+        end
+    end
+    -- 2. 좌표 도착 후 → 실제 몹 따라가기
+    if CurrentTarget and CurrentTarget.Parent then
+    local mobHrp = CurrentTarget:FindFirstChild("HumanoidRootPart") or CurrentTarget.PrimaryPart
+    if mobHrp then
+        local offset = GetDirectionLocalOffset(TP_DIRECTION, TP_DISTANCE)
+        -- ✅ Y 오프셋 추가
+        offset = offset + Vector3.new(0, Y_OFFSET, 0)
+        local targetPos = (mobHrp.CFrame * CFrame.new(offset)).Position
+        pcall(function()
+            if MoveMode == "Instant" then
+                hrp.CFrame = CFrame.new(targetPos, mobHrp.Position)
+            else
+                local current = hrp.Position
+                local lerp = math.min(30 * dt, 1)
+                local newX = current.X + (targetPos.X - current.X) * lerp
+                local newZ = current.Z + (targetPos.Z - current.Z) * lerp
+                -- ✅ Y 오프셋 반영된 위치로 이동
+                local finalY = targetPos.Y + Y_OFFSET
+                hrp.CFrame = CFrame.new(Vector3.new(newX, finalY, newZ), mobHrp.Position)
+            end
+            hrp.Velocity = Vector3.new(0, 0, 0)
+            hrp.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+        end)
+    end
+    isFloating = false
+    return
+end
+    if not hasPrimary and not hasSecondary then
+        if not isFloating then
+            pcall(function()
+                local floatPos = hrp.Position + Vector3.new(0, -100, 0)
+                hrp.CFrame = CFrame.new(floatPos)
+                hrp.Velocity = Vector3.new(0, 0, 0)
+            end)
+            isFloating = true
+            arrivedAtMemoryPos = false
+        else
+            hrp.Velocity = Vector3.new(0, 0, 0)
+            hrp.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+        end
+        return
+    else
+        isFloating = false
+    end
+end)
+
+-- ==================== 최종 세련된 오토클릭 + 완벽 속도 슬라이더 ====================
+-- ==================== 오토클릭 + AFK 방지 점프 (B키 토글) ====================
+-- ==================== 오토클릭 + AFK 점프 + 슬라이더 완벽 연동 ====================
+-- ==================== 오토클릭 - 에러 해결 + 툴 자동 장착 최적화 ====================
+do
+    local VirtualInputManager = game:GetService("VirtualInputManager")
+    local GuiService = game:GetService("GuiService")
+    local UserInputService = game:GetService("UserInputService")
+    local RunService = game:GetService("RunService")
+    local Players = game:GetService("Players")
+    local LocalPlayer = Players.LocalPlayer
+
+    local AutoEnabled = false
+    local clickLoop = nil       -- 빠른 클릭용
+    local jumpConnection = nil  -- AFK 점프용
+    local slowClickConnection = nil  -- ← 5분 주기 클릭용 추가
+
+    local lastJumpTime = 0
+    local jumpInterval = 20
+
+    -- 5분 주기 클릭 설정
+    local SLOW_CLICK_INTERVAL = 300          -- 300초 = 5분
+    local lastSlowClickTime = 0
+
+    local function GetCenterPos()
+        local cam = workspace.CurrentCamera
+        local size = cam.ViewportSize
+        local inset = GuiService:GetGuiInset().Y
+        return Vector2.new(size.X / 2, size.Y / 2 + inset / 2)
+    end
+
+    local function ClickCenter()
+        local pos = GetCenterPos()
+        VirtualInputManager:SendMouseButtonEvent(pos.X, pos.Y, 0, true, game, 0)
+        task.wait(0.025)
+        VirtualInputManager:SendMouseButtonEvent(pos.X, pos.Y, 0, false, game, 0)
+    end
+
+    local function DoJump()
+        pcall(function()
+            if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+                LocalPlayer.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+            end
+        end)
+    end
+
+    local function SetAutoEnabled(enabled)
+        if AutoEnabled == enabled then return end
+        AutoEnabled = enabled
+
+        -- 기존 연결 모두 정리
+        if clickLoop then
+            task.cancel(clickLoop)
+            clickLoop = nil
+        end
+        if jumpConnection then
+            jumpConnection:Disconnect()
+            jumpConnection = nil
+        end
+        if slowClickConnection then
+            slowClickConnection:Disconnect()
+            slowClickConnection = nil
+        end
+
+        if enabled then
+            DoJump()
+            lastJumpTime = os.clock()
+            lastSlowClickTime = os.clock()   -- 시작 시점 초기화
+
+            -- 빠른 오토클릭 (기존)
+            clickLoop = task.spawn(function()
+                while AutoEnabled do
+                    pcall(function()
+                        local char = LocalPlayer.Character
+                        if char then
+                            local tool = char:FindFirstChildWhichIsA("Tool")
+                            if tool then
+                                tool:Activate()
+                            else
+                                ClickCenter()
+                            end
+                        end
+                    end)
+                    
+                    task.wait(_G.AutoClickDelay or 0.1 + math.random(-20, 40)/1000)
+                end
+            end)
+
+            -- AFK 방지 점프 (기존)
+            jumpConnection = RunService.Heartbeat:Connect(function()
+                if not AutoEnabled then return end
+                if os.clock() - lastJumpTime >= jumpInterval then
+                    DoJump()
+                    lastJumpTime = os.clock()
+                    print("AFK 방지 점프")
+                end
+            end)
+
+            -- 5분마다 한 번 클릭 (추가)
+            slowClickConnection = RunService.Heartbeat:Connect(function()
+                if not AutoEnabled then return end
+
+                local now = os.clock()
+                if now - lastSlowClickTime >= SLOW_CLICK_INTERVAL then
+                    ClickCenter()
+                    lastSlowClickTime = now
+                    print("5분 주기 화면 클릭 실행")
+                end
+            end)
+
+            print("오토클릭 ON | delay:", _G.AutoClickDelay, "| 5분 주기 클릭 ON")
+        else
+            print("오토클릭 OFF | 5분 주기 클릭도 OFF")
+        end
+
+        -- GUI 버튼 업데이트
+        local btn = GUIObjects and GUIObjects.AutoClickBtn
+        if btn and btn.Parent then
+            btn.Text = enabled and "오토클릭 & afk : ON (B)" or "오토클릭 & afk : OFF (B)"
+            btn.BackgroundColor3 = enabled and Color3.fromRGB(0, 140, 0) or Color3.fromRGB(26, 26, 26)
+        end
+    end
+
+    -- B키 토글
+    UserInputService.InputBegan:Connect(function(input, processed)
+        if processed then return end
+        if input.KeyCode == Enum.KeyCode.B then
+            SetAutoEnabled(not AutoEnabled)
+        end
+    end)
+
+    -- GUI 버튼 클릭 토글
+    if GUIObjects and GUIObjects.AutoClickBtn then
+        GUIObjects.AutoClickBtn.MouseButton1Click:Connect(function()
+            SetAutoEnabled(not AutoEnabled)
+        end)
+    end
+
+    -- 캐릭터 리스폰 대비
+    LocalPlayer.CharacterAdded:Connect(function(newChar)
+        -- 필요하면 여기에 추가 초기화
+    end)
+
+    -- 초기 delay 설정
+    _G.AutoClickDelay = _G.AutoClickDelay or 0.1
+
+    print("스크립트 로드 완료 (5분 주기 클릭 포함)")
+end
+-- ==================== 오토클릭 + 점프 끝 ====================
+-- =============== 완벽한 속도 조절 슬라이더 (오토클릭 버튼 바로 아래) ===============
+
+    -- =============== 클릭 속도 슬라이더 ===============
+do
+    local container = GUIObjects.ClickContainer
+
+    local SliderFrame = Instance.new("Frame")
+    SliderFrame.Size = UDim2.new(0.9, 0, 0, 90)
+    SliderFrame.Position = UDim2.new(0.05, 0, 0, 50)
+    SliderFrame.BackgroundTransparency = 1
+    SliderFrame.Parent = container
+
+    local Title = Instance.new("TextLabel")
+    Title.Size = UDim2.new(1, 0, 0, 24)
+    Title.BackgroundTransparency = 1
+    Title.Text = "클릭 지연 시간 (낮을수록 CPS ↑)"
+    Title.TextColor3 = Color3.fromRGB(220, 220, 220)
+    Title.Font = Enum.Font.GothamMedium
+    Title.TextSize = 15
+    Title.TextXAlignment = Enum.TextXAlignment.Left
+    Title.Parent = SliderFrame
+
+    local ValueLabel = Instance.new("TextLabel")
+    ValueLabel.Size = UDim2.new(1, 0, 0, 30)
+    ValueLabel.Position = UDim2.new(0, 0, 0, 24)
+    ValueLabel.BackgroundTransparency = 1
+    ValueLabel.TextColor3 = Color3.fromRGB(100, 255, 180)
+    ValueLabel.Font = Enum.Font.GothamBold
+    ValueLabel.TextSize = 20
+    ValueLabel.TextXAlignment = Enum.TextXAlignment.Left
+    ValueLabel.Text = "0.100초 (10.0 CPS)"
+    ValueLabel.Parent = SliderFrame
+
+    local Track = Instance.new("Frame")
+    Track.Size = UDim2.new(1, 0, 0, 10)
+    Track.Position = UDim2.new(0, 0, 0, 60)
+    Track.BackgroundColor3 = Color3.fromRGB(60, 60, 70)
+    Track.Parent = SliderFrame
+    ApplyRounded(Track, 5)
+
+    local Fill = Instance.new("Frame")
+    Fill.Size = UDim2.new(0.2, 0, 1, 0)  -- 초기 0.1초 위치
+    Fill.BackgroundColor3 = Color3.fromRGB(0, 220, 100)
+    Fill.Parent = Track
+    ApplyRounded(Fill, 5)
+
+    local Knob = Instance.new("Frame")
+    Knob.Size = UDim2.new(0, 28, 0, 28)
+    Knob.AnchorPoint = Vector2.new(0.5, 0.5)
+    Knob.Position = UDim2.new(0.2, 0, 0.5, 0)
+    Knob.BackgroundColor3 = Color3.new(1,1,1)
+    Knob.Parent = Track
+    ApplyRounded(Knob, 14)
+    ApplyStroke(Knob, 3, Color3.fromRGB(0, 200, 100))
+
+    local dragging = false
+
+    local minDelay, maxDelay = 0.05, 5.5   -- 200 CPS ~ 2 CPS
+
+    local function updateUI()
+        local delay = math.clamp(_G.AutoClickDelay or 0.1, minDelay, maxDelay)
+        local ratio = (delay - minDelay) / (maxDelay - minDelay)
+        Fill.Size = UDim2.new(ratio, 0, 1, 0)
+        Knob.Position = UDim2.new(ratio, 0, 0.5, 0)
+        ValueLabel.Text = string.format("%.3f초 (%.1f CPS)", delay, 1 / delay)
+    end
+
+    local function handleDrag(input)
+        if not dragging then return end
+        local rel = math.clamp((input.Position.X - Track.AbsolutePosition.X) / Track.AbsoluteSize.X, 0, 1)
+        _G.AutoClickDelay = minDelay + (maxDelay - minDelay) * rel
+        updateUI()
+    end
+
+    Track.InputBegan:Connect(function(inp)
+        if inp.UserInputType == Enum.UserInputType.MouseButton1 or inp.UserInputType == Enum.UserInputType.Touch then
+            dragging = true
+            handleDrag(inp)
+        end
+    end)
+
+    Knob.InputBegan:Connect(function(inp)
+        if inp.UserInputType == Enum.UserInputType.MouseButton1 or inp.UserInputType == Enum.UserInputType.Touch then
+            dragging = true
+        end
+    end)
+
+    game:GetService("UserInputService").InputChanged:Connect(function(inp)
+        if dragging and (inp.UserInputType == Enum.UserInputType.MouseMovement or inp.UserInputType == Enum.UserInputType.Touch) then
+            handleDrag(inp)
+        end
+    end)
+
+    game:GetService("UserInputService").InputEnded:Connect(function(inp)
+        if inp.UserInputType == Enum.UserInputType.MouseButton1 or inp.UserInputType == Enum.UserInputType.Touch then
+            dragging = false
+        end
+    end)
+
+    -- 초기화
+    updateUI()
+end
+-- ==================== HP 0 → 5초 후 죽은 자리 TP (완벽 버전) ====================
+do
+    local DeathTP_Enabled = false
+    local DeathPosition = nil
+    -- 매 프레임 HP 체크 (Humanoid.Died보다 빠르고 확실함)
+    spawn(function()
+        while true do
+            if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+                local hum = LocalPlayer.Character.Humanoid
+                if hum.Health <= 0 and DeathTP_Enabled and DeathPosition == nil then
+                    local hrp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                    if hrp then
+                        DeathPosition = hrp.Position + Vector3.new(0, 8, 0)
+                        print("[HP 0 감지] 죽은 위치 저장:", DeathPosition)
+                      
+                        -- 5초 딱 기다렸다가 TP
+                        task.wait(5)
+                        if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                            local newHrp = LocalPlayer.Character.HumanoidRootPart
+                            pcall(function()
+                                newHrp.CFrame = CFrame.new(DeathPosition)
+                            end)
+                            print("[5초 후 TP 완료] 죽은 자리로 귀환!")
+                        end
+                        DeathPosition = nil -- 다음 죽음 대비 초기화
+                    end
+                end
+            end
+            task.wait(0.1) -- 0.1초마다 체크 (부하 없음)
+        end
+    end)
+    -- 오토 탭에 토글 버튼 추가
+    task.spawn(function()
+        task.wait(2) -- GUI 로드 대기
+        local btn = Instance.new("TextButton")
+        btn.Size = UDim2.new(0.9, 0, 0, 50)
+        btn.Position = UDim2.new(0.05, 0, 0, 280) -- 오토클릭 아래쪽
+        btn.BackgroundColor3 = Color3.fromRGB(26,26,26)
+        btn.Text = "뒤진곳 TP: OFF"
+        btn.TextColor3 = Color3.new(1,1,1)
+        btn.Font = Enum.Font.GothamBold
+        btn.TextSize = 16
+        btn.Parent = GUIObjects.ClickContainer
+        ApplyRounded(btn, 12)
+        ApplyStroke(btn, 2, Color3.fromRGB(255,100,100))
+        btn.MouseButton1Click:Connect(function()
+            DeathTP_Enabled = not DeathTP_Enabled
+            btn.Text = DeathTP_Enabled and "뒤진곳 TP: ON" or "뒤진곳 TP: OFF"
+            btn.BackgroundColor3 = DeathTP_Enabled and Color3.fromRGB(160,30,30) or Color3.fromRGB(26,26,26)
+        end)
+    end)
+end
+
+local Players = game:GetService("Players")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local GuiService = game:GetService("GuiService")
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui", 10)
+if not playerGui then
+    warn("PlayerGui 못 찾음 - 종료")
+    return
+end
+
+-- 바로 켜짐 (토글 UI 제거)
+local AutoBypassEnabled = true
+
+local successCount = 0
+
+local NotifyGui = Instance.new("ScreenGui")
+NotifyGui.Name = "NotifyGui"
+NotifyGui.ResetOnSpawn = false
+NotifyGui.Parent = playerGui
+
+local NotifyLabel = Instance.new("TextLabel")
+NotifyLabel.Size = UDim2.new(0, 300, 0, 50)
+NotifyLabel.Position = UDim2.new(0.5, -150, 0.1, 0)
+NotifyLabel.BackgroundTransparency = 0.4
+NotifyLabel.BackgroundColor3 = Color3.fromRGB(30, 30, 40)
+NotifyLabel.TextColor3 = Color3.fromRGB(200, 255, 200)
+NotifyLabel.Font = Enum.Font.SourceSansBold
+NotifyLabel.TextSize = 18
+NotifyLabel.Text = ""
+NotifyLabel.Visible = false
+NotifyLabel.Parent = NotifyGui
+
+local function ShowNotify(title, content, duration)
+    NotifyLabel.Text = title .. "\n" .. content
+    NotifyLabel.Visible = true
+    task.delay(duration or 3, function()
+        NotifyLabel.Visible = false
+    end)
+    print("[" .. title .. "] " .. content)
+end
+
+local CounterGui = Instance.new("ScreenGui")
+CounterGui.Name = "CounterGui"
+CounterGui.ResetOnSpawn = false
+CounterGui.Parent = playerGui
+
+local CounterFrame = Instance.new("Frame")
+CounterFrame.Size = UDim2.new(0, 160, 0, 38)
+CounterFrame.Position = UDim2.new(1, -180, 1, -50)
+CounterFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+CounterFrame.BackgroundTransparency = 0.35
+CounterFrame.BorderSizePixel = 0
+CounterFrame.Parent = CounterGui
+
+local CounterLabel = Instance.new("TextLabel")
+CounterLabel.Size = UDim2.new(1, -8, 1, -6)
+CounterLabel.Position = UDim2.new(0, 4, 0, 3)
+CounterLabel.BackgroundTransparency = 1
+CounterLabel.TextColor3 = Color3.fromRGB(180, 255, 180)
+CounterLabel.Font = Enum.Font.SourceSansBold
+CounterLabel.TextSize = 18
+CounterLabel.Text = "성공: 0 회"
+CounterLabel.Parent = CounterFrame
+
+local function updateCounter()
+    CounterLabel.Text = "성공: " .. successCount .. " 회"
+end
+
+local function clickGuiObject(obj)
+    if not obj or not obj:IsDescendantOf(playerGui) then
+        return false
+    end
+
+    local waitTime = 0
+    while (not obj.Visible or obj.AbsoluteSize.Magnitude < 1) and waitTime < 1.5 do
+        task.wait(0.08)
+        waitTime = waitTime + 0.08
+    end
+
+    if not obj.Visible or obj.AbsoluteSize.Magnitude < 1 then
+        return false
+    end
+
+    local pos = obj.AbsolutePosition
+    local size = obj.AbsoluteSize
+
+    if pos.Magnitude < 20 then
+        task.wait(0.15)
+        pos = obj.AbsolutePosition
+        size = obj.AbsoluteSize
+    end
+
+    local inset = GuiService:GetGuiInset()
+    local topbarHeight = inset.Y
+
+    local clickX = pos.X + size.X * 0.5
+    local clickY = pos.Y + size.Y * 0.5 + topbarHeight
+
+    local viewport = workspace.CurrentCamera.ViewportSize
+    clickX = math.clamp(clickX, 8, viewport.X - 8)
+    clickY = math.clamp(clickY, 8, viewport.Y - 8)
+
+    VirtualInputManager:SendMouseButtonEvent(clickX, clickY, 0, true, game, 0)
+    task.wait(0.03 + math.random(3, 9) / 100)
+    VirtualInputManager:SendMouseButtonEvent(clickX, clickY, 0, false, game, 0)
+
+    return true
+end
+
+local function findDigitButton(keyFrame, digit)
+    for _, btn in keyFrame:GetChildren() do
+        if (btn:IsA("TextButton") or btn:IsA("ImageButton")) and btn.Text == digit then
+            return btn
+        end
+    end
+    return nil
+end
+
+task.spawn(function()
+    while true do
+        task.wait(1)
+        if not AutoBypassEnabled then continue end
+
+        pcall(function()
+            local gui = playerGui:FindFirstChild("MacroGui")
+            if not gui or not gui.Enabled then return end
+
+            local root = gui:FindFirstChild("Frame") or gui:FindFirstChild("MacroClient") or gui
+            if not root then return end
+
+            local display = root:FindFirstChild("Frame")
+            local keyFrame = root:FindFirstChild("KeyInputFrame")
+            local resetFrame = root:FindFirstChild("KeyReset")
+
+            if not (display and keyFrame) then return end
+
+            local inputLabel = display:FindFirstChild("Input") or display:FindFirstChildWhichIsA("TextLabel")
+            local outputBox = display:FindFirstChild("TextBox")
+
+            if not (inputLabel and outputBox) then return end
+
+            local targetNum = inputLabel.Text:match("%d%d%d%d")
+            if not targetNum then return end
+
+            if outputBox.Text == targetNum then return end
+
+            ShowNotify("매크로 감지", "목표: " .. targetNum .. " 입력 시작...", 4)
+
+            if not keyFrame.Visible then
+                local success = clickGuiObject(outputBox)
+                if success then
+                    local waited = 0
+                    while not keyFrame.Visible and waited < 2 do
+                        task.wait(0.52)
+                        waited = waited + 0.12
+                    end
+                end
+            end
+
+            local resetBtn = resetFrame and resetFrame:FindFirstChildWhichIsA("TextButton")
+            if resetBtn then
+                for _ = 1, 5 do
+                    if outputBox.Text == "" then break end
+                    clickGuiObject(resetBtn)
+                    task.wait(0.42 + math.random(0, 6)/100)
+                end
+            end
+
+            task.wait(0.55)
+
+            if outputBox.Text == "" then
+                for i = 1, #targetNum do
+                    local digit = targetNum:sub(i, i)
+                    local btn = findDigitButton(keyFrame, digit)
+                    if btn then
+                        clickGuiObject(btn)
+                        task.wait(0.26 + math.random(2, 10)/100)
+                    else
+                        warn("숫자 버튼 못 찾음: " .. digit)
+                    end
+                end
+
+                print("입력 완료: " .. targetNum)
+
+                task.wait(0.7)
+
+                if outputBox.Text == targetNum then
+                    successCount = successCount + 1
+                    updateCounter()
+                    ShowNotify("우회 성공", "카운트: " .. successCount .. " 회", 3.5)
+                end
+            end
+
+            task.wait(2.3)
+        end)
+    end
+end)
+
+updateCounter()
+
+
+-- 오토팜 OFF 시 노클립 완전 정리 (안전장치)
+game.Players.LocalPlayer.AncestryChanged:Connect(function()
+    if not AutoFarmEnabled and NoclipEnabled then
+        NoclipEnabled = false
+        if NoclipConnection then
+            NoclipConnection:Disconnect()
+            NoclipConnection = nil
+        end
+    end
+end)
+-- ═══════════════════════════════════════════════════════════════
+-- 해상도 자동 스케일링 (맨 밑에 넣기만 하면 모든 GUI 자동 조절됨)
+-- ═══════════════════════════════════════════════════════════════
+
+local UserInputService = game:GetService("UserInputService")
+local RunService = game:GetService("RunService")
+
+-- ScreenGui 찾기
+local ScreenGui = game.CoreGui:FindFirstChild("AutoFarmGUI")
+if not ScreenGui then return end
+
+-- 전체 스케일 컨트롤러 추가
+local GlobalScale = Instance.new("UIScale")
+GlobalScale.Scale = 1.0
+GlobalScale.Parent = ScreenGui
+
+-- 비율 유지 컨트롤러 추가
+local Aspect = Instance.new("UIAspectRatioConstraint")
+Aspect.AspectRatio = 0.84  -- 520/620 비율
+Aspect.Parent = ScreenGui
+
+-- 자동 스케일 계산 함수
+local function UpdateAllGuiScale()
+    local cam = workspace.CurrentCamera
+    if not cam then return end
+    
+    local vp = cam.ViewportSize
+    local refW, refH = 1920, 1080
+    
+    local scaleX = vp.X / refW
+    local scaleY = vp.Y / refH
+    local finalScale = math.min(scaleX, scaleY) * 1.05
+    
+    -- 범위 제한
+    finalScale = math.clamp(finalScale, 0.65, 1.4)
+    
+    -- 모바일 강제 축소
+    if UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled then
+        finalScale = math.min(finalScale, 0.82)
+    end
+    
+    GlobalScale.Scale = finalScale
+end
+
+-- 즉시 적용 + 실시간 업데이트
+UpdateAllGuiScale()
+RunService.RenderStepped:Connect(UpdateAllGuiScale)
+
+print("✅ GUI 해상도 자동 스케일링 활성화됨")
