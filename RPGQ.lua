@@ -1359,23 +1359,28 @@ local function CreateGUI()
             end
         end)
     end
-    -- 쿨타임 GUI 업데이트 (난독화 대응, 단순화)
-    local function updateSkillCooldownDisplay()
-        local guiRoot = LocalPlayer:FindFirstChild("PlayerGui") or game:GetService("CoreGui")
-        for _, name in ipairs({"E", "R", "T"}) do
-            local cdLabel = GUIObjects.SkillCooldownLabels[name]
-            if not cdLabel then continue end
-            -- 동적으로 쿨타임 값 찾기
-            local cdValue = nil
-            pcall(function()
-                for _, v in pairs(guiRoot:GetDescendants()) do
-                    if (v:IsA("NumberValue") or v:IsA("IntValue")) and (v.Name:lower():find(name:lower()) or v.Parent.Name:lower():find(name:lower())) then
-                        cdValue = v.Value
-                        break
-                    end
-                end
-            end)
-            -- 쿨타임 표시
+    -- 타임 GUI 업데이트 (난독화 대응, 단순화)
+function updateSkillCooldownDisplay()
+    local guiRoot = LocalPlayer:FindFirstChild("PlayerGui") -- (우측 잘린 부분 고려)
+    for _, name in ipairs({"E", "R", "T"}) do
+        local cdLabel = GUIObjects.SkillCooldownLabel -- (우측 잘린 부분 고려)
+        if not cdLabel then continue end
+        
+        -- 동적으로 쿨타임 값 찾기
+        local cdValue = nil
+        pcall(function()
+            for _, v in pairs(guiRoot:GetDescendants()) do
+                if v:IsA("NumberValue") or v:IsA("IntValue") then -- then 추가
+                    cdValue = v.Value
+                    break
+                end -- if문 닫기
+            end -- 내부 for문 닫기
+        end) -- pcall 닫기
+        
+    end 
+    
+    -- 쿨타임 표시
+
             if cdValue == nil then
                 cdLabel.Text = "N/A"
             elseif cdValue > 0 then
